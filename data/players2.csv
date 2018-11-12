@@ -1,0 +1,2001 @@
+player_api_id,player_name,height,weight,Position
+35626,Emanuele Belardi,187.96,176,GK
+71352,Marcelo Jose Oliveira,185.42,176,Outfield
+489240,Jaume,187.96,168,GK
+41292,Angel Rodriguez,172.72,150,Outfield
+38318,Jurgen Sierens,190.5,196,GK
+215307,Jonathan Ligali,182.88,190,GK
+40934,Wender,177.8,163,Outfield
+26359,Teddy Richert,182.88,174,GK
+450011,Anderson Talisca,187.96,159,Outfield
+31293,Steve Mandanda,185.42,181,GK
+192775,Wes Fletcher,180.34,187,Outfield
+145550,Kevin Trapp,187.96,194,GK
+232299,Hannes van der Bruggen,180.34,159,Outfield
+402765,Billy King,177.8,150,Outfield
+5223,Raffaele Rubino,182.88,176,Outfield
+361371,Bruninho,177.8,154,Outfield
+358289,Carles Gil,170.18,143,Outfield
+41887,Manuele Blasi,177.8,161,Outfield
+24224,Shay Given,185.42,185,GK
+50065,David Ospina,182.88,174,GK
+158284,Tomasz Cywka,180.34,168,Outfield
+27666,Luca Bucci,180.34,174,GK
+109622,Scott Fox,182.88,174,GK
+39896,Romain Haghedooren,187.96,176,Outfield
+177126,Jan Oblak,185.42,192,GK
+188000,Josh Parker,180.34,168,Outfield
+39274,Lorenzo Stovini,185.42,176,Outfield
+447488,Alex Ferrari,182.88,154,Outfield
+34230,Tyrone Mears,180.34,163,Outfield
+70360,Maurice Edu,185.42,179,Outfield
+242958,Jean-Christophe Bahebeck,182.88,168,Outfield
+33781,Craig Bellamy,175.26,152,Outfield
+31304,Alessandro Rosina,167.64,148,Outfield
+21864,Stephen Quinn,167.64,132,Outfield
+104744,Riccardo Cazzola,187.96,183,Outfield
+25260,Christian Schwegler,177.8,161,Outfield
+361334,Konrad Jalocha,200.66,187,GK
+13454,Sebastian Przyrowski,193.04,174,GK
+27306,Alexander Baumjohann,177.8,165,Outfield
+215299,Lucas Moura,172.72,159,Outfield
+28109,Kevin McDonald,187.96,181,Outfield
+38427,Jordi Codina,187.96,179,GK
+32952,Kevin Rutkiewicz,185.42,176,Outfield
+127189,Dragan Mihajlovic,177.8,163,Outfield
+30703,Timo Hildebrand,185.42,176,GK
+148327,Istvan Bakx,175.26,154,Outfield
+75608,Serrabasa Gerard,182.88,168,Outfield
+38419,Mahamadou Habib Habibou,193.04,187,Outfield
+46509,Angel Di Maria,180.34,165,Outfield
+36878,Thomas Kraft,187.96,172,GK
+150210,Darley,187.96,168,GK
+25416,Jonathan Hayes,170.18,154,Outfield
+30974,Artur Boruc,193.04,192,GK
+356404,Steven Hetherington,180.34,170,Outfield
+17528,Chris Millar,175.26,143,Outfield
+167059,Jordy Deckers,193.04,183,GK
+181433,Claudio Ramos,182.88,176,GK
+32446,David Marshall,190.5,183,GK
+11829,Bruno Patacas,175.26,161,Outfield
+309943,Patryk Fryc,175.26,157,Outfield
+103218,Ciprian Tatarusanu,195.58,194,GK
+30854,Mike Hanke,185.42,187,Outfield
+24104,Jaroslav Drobny,193.04,198,GK
+91984,Valentin Stocker,177.8,159,Outfield
+37439,Dudu Aouate,187.96,192,GK
+69650,Brad Guzan,193.04,209,GK
+23760,David Bentley,175.26,150,Outfield
+26483,Brian Vandenbussche,195.58,203,GK
+30698,Marko Babic,185.42,159,Outfield
+39565,Vedran Runje,182.88,187,GK
+618737,Mateusz Abramowicz,185.42,176,GK
+30866,Ivica Dragutinovic,185.42,185,Outfield
+180284,Marc Vidal,182.88,183,GK
+72256,Patrik Mraz,187.96,165,Outfield
+498295,Marcos Vinicius,190.5,179,Outfield
+179523,Luan,185.42,165,Outfield
+69341,Boris Peskovic,187.96,190,GK
+473851,Joachim Eickmayer,177.8,154,Outfield
+231652,Thilo Leugers,182.88,161,Outfield
+289159,Jak Alnwick,187.96,181,GK
+166679,Guillaume Francois,175.26,159,Outfield
+145561,Anderson,187.96,190,Outfield
+96618,Raul Fernandez,195.58,190,GK
+42231,Daniel Lopar,187.96,187,GK
+24983,Gunnar Nielsen,190.5,190,GK
+202616,Ulisse Pelloni,182.88,172,GK
+46224,Cyrille Merville,180.34,165,GK
+40383,Sergei Kornilenko,185.42,198,Outfield
+66578,Teemu Pukki,180.34,172,Outfield
+24591,Ricardo,187.96,194,GK
+210164,Alphonse Areola,190.5,201,GK
+10637,Andris Vanins,185.42,176,GK
+33759,Aldo Pedro Duscher,175.26,159,Outfield
+266279,Szymon Drewniak,177.8,154,Outfield
+161014,Harm Zeinstra,193.04,187,GK
+104384,Sebastien Bruzzese,185.42,179,GK
+105351,Simao,177.8,168,Outfield
+32562,Craig Gordon,193.04,183,GK
+177152,Marko Meerits,185.42,185,GK
+19393,Diego,187.96,203,GK
+213744,Felice Natalino,185.42,163,Outfield
+30691,Bakari Kone,162.56,134,Outfield
+33408,Elliott L. Ward,185.42,183,Outfield
+270473,Igor Berezovsky,193.04,192,GK
+39266,Mark Edusei,177.8,154,Outfield
+26861,"Jose Alberto Shaffer,18",175.26,154,Outfield
+33687,Ousmane Dabo,185.42,185,Outfield
+27022,Andreas Lambertz,172.72,152,Outfield
+23946,Bryan Hughes,175.26,154,Outfield
+524434,Joao Palinha,190.5,181,Outfield
+43296,Matheus,175.26,150,Outfield
+23147,Joe Lewis,198.12,187,GK
+89405,Abdul Osman,182.88,154,Outfield
+214340,Parfait Mandanda,182.88,172,GK
+50638,Charles Aranguiz,170.18,154,Outfield
+45891,Gerard Aafjes,187.96,187,Outfield
+33861,Enrique Corrales,175.26,152,Outfield
+28901,James McArthur,177.8,141,Outfield
+164259,Felix Kroos,182.88,172,Outfield
+183348,Dani Hernandez,195.58,196,GK
+47559,Scott Brown,187.96,192,GK
+303360,Steeve Yago,180.34,159,Outfield
+24632,Paul Stalteri,180.34,170,Outfield
+159882,Kevin Theophile-Catherine,182.88,187,Outfield
+554280,Kevin Friesenbichler,187.96,165,Outfield
+34656,Chris Smith,187.96,190,GK
+37379,Florian Dick,182.88,185,Outfield
+352023,Deniz Tueruec,177.8,159,Outfield
+279865,Tomasz Porebski,195.58,185,Outfield
+194034,Max Veloso,177.8,165,Outfield
+165518,David Cornell,187.96,174,GK
+352365,Mickey van der Hart,187.96,192,GK
+26010,Jeffrey Sarpong,172.72,165,Outfield
+39792,Arda Turan,177.8,168,Outfield
+23304,Djamel Belmadi,172.72,165,Outfield
+35906,Tomasz Kuszczak,190.5,185,GK
+104388,"Cyprien Baguette,23",187.96,185,GK
+13471,Radoslaw Cierzniak,182.88,179,GK
+35495,Dorus De Vries,190.5,212,GK
+602493,Paul Bernardoni,190.5,172,GK
+27329,Kevin Stuhr Ellegaard,195.58,205,GK
+45483,Hans Mulder,180.34,168,Outfield
+24527,Marton Fulop,198.12,203,GK
+42596,Kees Luijckx,190.5,187,Outfield
+13131,Tomislav Pacovski,185.42,185,GK
+39701,Fabio Caserta,177.8,170,Outfield
+34275,Michael Turner,193.04,198,Outfield
+38230,Apoula Edima Edel,182.88,176,GK
+198343,Nikola Stojiljkovic,182.88,168,Outfield
+40710,Fernando Cavenaghi,177.8,179,Outfield
+110382,Matias Omar Degra,190.5,190,GK
+30687,Lucas Neill,185.42,168,Outfield
+119702,Milan Gajic,182.88,168,Outfield
+213878,Ramiro Funes Mori,185.42,176,Outfield
+237610,Miroslav Covilo,193.04,205,Outfield
+528508,Crislan,185.42,161,Outfield
+31092,Chu-Young Park,182.88,165,Outfield
+101590,Oier Olazabal,187.96,187,GK
+39931,Lance Davids,175.26,168,Outfield
+110108,Lex van Haeften,198.12,185,GK
+20645,Mike Havenaar,193.04,179,Outfield
+33108,Stephane Noro,172.72,159,Outfield
+181029,Mourad Satli,187.96,172,Outfield
+231592,Aaron Mooy,175.26,150,Outfield
+30664,Leonardo Franco,187.96,174,GK
+178434,Wojciech Malecki,187.96,179,GK
+32990,Nicolas Ardouin,185.42,176,GK
+242300,Michael Clepkens,187.96,194,GK
+97334,Luis Moran,172.72,148,Outfield
+22978,Ross Turnbull,193.04,187,GK
+244959,Lewis Toshney,187.96,168,Outfield
+184645,Lukas Schmitz,182.88,172,Outfield
+114817,Michal Gliwa,187.96,168,GK
+16199,Boban Bajkovic,187.96,185,GK
+488710,Rafa Galvez,190.5,179,Outfield
+168673,Gary Woods,185.42,172,GK
+39541,Christian Terlizzi,190.5,176,Outfield
+27447,Mathias Hain,187.96,190,GK
+423024,Jhon Murillo,170.18,139,Outfield
+37187,Jorg van Nieuwenhuijzen,185.42,198,GK
+338299,David von Ballmoos,193.04,194,GK
+414208,Adam King,180.34,165,Outfield
+26594,Vladan Kujovic,185.42,179,GK
+192319,Jonathan Mensah,187.96,183,Outfield
+103905,Juanfran,177.8,159,Outfield
+43096,Jonathan Lacourt,180.34,157,Outfield
+40980,Owain Fon Williams,193.04,170,GK
+69149,Mitchell Langerak,193.04,179,GK
+98363,Jorginho Sousa,175.26,159,Outfield
+561819,Alessandro Damen,185.42,183,GK
+493418,Albion Avdijaj,190.5,176,Outfield
+212520,Johan Kappelhof,180.34,161,Outfield
+163255,Luigi Sepe,190.5,198,GK
+36395,Miso Brecko,177.8,150,Outfield
+304014,Fernando Marcal,177.8,159,Outfield
+34267,Pirmin Schwegler,177.8,163,Outfield
+520349,Fernando Quesada,177.8,157,Outfield
+26611,Theo Janssen,180.34,176,Outfield
+15732,Ivan Radovanovic,187.96,176,Outfield
+38289,Jugoslav Lazic,198.12,190,GK
+26167,Remy Vercoutre,185.42,172,GK
+521195,Jeff Hardeveld,185.42,161,Outfield
+94033,Claude Dielna,182.88,190,Outfield
+30953,Jason Scotland,172.72,161,Outfield
+33913,Alex Keddie,187.96,183,Outfield
+26390,Guillaume Lacour,172.72,150,Outfield
+280969,Adriano Facchini,187.96,172,GK
+181572,Patrick De Vlamynck,185.42,185,GK
+179513,Xavier Mercier,170.18,141,Outfield
+25816,Almen Abdi,182.88,165,Outfield
+121881,Eduardo Gottardi,193.04,176,GK
+141733,Sergey Khizhnichenko,187.96,179,Outfield
+127134,Scott Robinson,167.64,150,Outfield
+202343,Anselmo,185.42,181,Outfield
+23093,Tommy Wright,182.88,163,Outfield
+563068,Valentin Belon,180.34,170,GK
+178788,Ties Evers,180.34,165,Outfield
+577045,Kenneth Saief,175.26,159,Outfield
+34231,Fernando Morientes,185.42,174,Outfield
+274776,Yanick Brecher,193.04,183,GK
+306522,Kamil Wlodyka,180.34,154,Outfield
+304019,Nuno Lopes,182.88,176,Outfield
+46877,Remi Mareval,182.88,190,Outfield
+357302,Pawel Baranowski,190.5,187,Outfield
+101920,Jonathan Lopez,182.88,179,GK
+45836,Niki Maeenpaeae,190.5,187,GK
+33444,Florian Jarjat,180.34,163,Outfield
+520426,Jordy van der Winden,180.34,165,Outfield
+614867,Maxime Vandermeulen,180.34,165,GK
+110331,Brayan Angulo,172.72,159,Outfield
+39163,Dimitrios Eleftheropoulos,190.5,183,GK
+24625,Tommy Elphick,187.96,190,Outfield
+212512,Jasper Cillessen,185.42,183,GK
+32678,German Dario Lux,185.42,170,GK
+74354,Massimiliano Benassi,180.34,170,GK
+5610,Yann Jouffre,175.26,143,Outfield
+245572,Juan Manuel Iturbe,170.18,137,Outfield
+37497,Javier Portillo,180.34,154,Outfield
+19435,Renan,185.42,181,GK
+13513,Pawel Strak,187.96,185,Outfield
+491072,Sergiy Bolbat,175.26,146,Outfield
+27467,Oka Nikolov,187.96,190,GK
+18520,Marcos Angeleri,182.88,168,Outfield
+22045,Lee Tomlin,180.34,163,Outfield
+39477,Stefano Sorrentino,185.42,190,GK
+566420,Kohei Kato,172.72,154,Outfield
+513512,Nemanja Antonov,182.88,165,Outfield
+160367,Ryan Scully,185.42,168,GK
+194134,Mark Connolly,185.42,170,Outfield
+37206,Gino Coutinho,180.34,187,GK
+109065,Wilfried Moimbe,172.72,148,Outfield
+546034,Mamadou N'Diaye,175.26,137,Outfield
+38248,Dario Smoje,193.04,181,Outfield
+26330,Jimmy Briand,182.88,176,Outfield
+24634,Radek Cerny,187.96,192,GK
+208986,Rene Sterckx,177.8,159,Outfield
+164212,Yazalde,182.88,190,Outfield
+30424,Andreas Granqvist,193.04,185,Outfield
+37376,Jean-Francois Kornetzky,190.5,196,GK
+69594,Maciej Gostomski,195.58,198,GK
+155548,Kevin Gomis,185.42,187,Outfield
+45306,Rafael Bracalli,185.42,172,GK
+73299,Xhevdet Gela,180.34,157,Outfield
+26168,Cedric Carrasso,187.96,192,GK
+37455,Francisco Rufete,175.26,170,Outfield
+41405,Nicola Ravaglia,185.42,187,GK
+46085,Anco Jansen,182.88,196,Outfield
+27372,Stefan Maierhofer,203.2,216,Outfield
+245526,Jeong-Ho Hong,185.42,176,Outfield
+418105,Kevin Vandendriessche,182.88,190,Outfield
+42429,Maurizio Pugliesi,187.96,174,GK
+466439,Mike Maignan,187.96,176,GK
+277705,Oliver,177.8,163,Outfield
+131403,Jo Coppens,190.5,176,GK
+38962,Sven van der Jeugt,190.5,190,GK
+42898,Timo Ochs,187.96,194,GK
+30354,Ledley King,187.96,190,Outfield
+26191,Gregory Proment,175.26,152,Outfield
+25199,Yves Makaba-Makalamby,198.12,212,GK
+35883,Florian Bruns,187.96,187,Outfield
+193533,Pablo Alcolea Guerrero,182.88,172,GK
+163985,Ricardo Campos,187.96,181,GK
+208852,Aleksandar Trajkovski,177.8,161,Outfield
+215311,Luca Veronese,187.96,159,GK
+41722,David Da Costa,185.42,168,GK
+10933,Robert Jez,177.8,159,Outfield
+25908,Cadu,182.88,170,Outfield
+280896,Jonas Mendes,190.5,181,GK
+164017,Paul Marshall,185.42,174,Outfield
+183327,Alvaro Gimenez,182.88,165,Outfield
+18558,Nicolas Navarro,190.5,192,GK
+698273,Alban Lafont,193.04,170,GK
+177953,Felix Wiedwald,190.5,181,GK
+20747,Eiji Kawashima,185.42,181,GK
+97731,Tayfun Pektuerk,175.26,165,Outfield
+168065,Nathan Junior,182.88,174,Outfield
+32942,Don Cowie,177.8,161,Outfield
+156546,Kostas Lamprou,175.26,141,GK
+41534,Walter Bressan,182.88,172,GK
+37581,Ezequiel Garay,187.96,176,Outfield
+112563,Hans Martinez,177.8,168,Outfield
+43208,Radoslav Zabavnik,180.34,176,Outfield
+33676,Peter Mollez,185.42,181,GK
+38617,Adam Federici,187.96,198,GK
+30684,"Juninho Pernambucano,20",177.8,163,Outfield
+42502,Michael Agazzi,187.96,187,GK
+116253,Juan Falcon,177.8,179,Outfield
+245555,Geronimo Rulli,187.96,176,GK
+113762,Santiago Morero,182.88,179,Outfield
+115719,Dejan Skolnik,175.26,163,Outfield
+427061,Jozo Simunovic,190.5,179,Outfield
+214748,Jake Kean,193.04,168,GK
+212772,Antonio Donnarumma,193.04,212,GK
+2752,Diego Mainz,187.96,174,Outfield
+23463,Pawel Abbott,187.96,192,Outfield
+39400,Rok Straus,175.26,150,Outfield
+26335,Simon Pouplin,187.96,172,GK
+423223,Simone Scuffet,187.96,165,GK
+30720,Dida,195.58,187,GK
+68422,Roberto Fernandez,187.96,176,GK
+299024,Leandro Kappel,182.88,161,Outfield
+79248,Denis Petric,185.42,183,GK
+264860,Mike van der Hoorn,190.5,179,Outfield
+37354,Christian Weber,175.26,168,Outfield
+553598,Joel Gerezgiher,175.26,157,Outfield
+104382,Roberto Rosales,175.26,154,Outfield
+38793,Logan Bailly,187.96,198,GK
+175311,Kiko,175.26,134,Outfield
+104378,Bojan Jorgacevic,187.96,190,GK
+45400,Ronnie Schwartz,182.88,176,Outfield
+46079,Etienne Reijnen,190.5,187,Outfield
+161660,Ciro Immobile,185.42,172,Outfield
+177698,Daniel Davari,193.04,198,GK
+198400,Mathias Abero,182.88,179,Outfield
+93343,Aldo Angoula,182.88,181,Outfield
+37780,Darren Randolph,185.42,176,GK
+11027,Roman Hubnik,193.04,183,Outfield
+116642,Yuki Otsu,180.34,163,Outfield
+520341,Valmir Berisha,177.8,181,Outfield
+41818,Jean-Francois Gillet,180.34,176,GK
+25540,Vincent Enyeama,182.88,192,GK
+25809,Nelson Ferreira,175.26,159,Outfield
+26367,Jessy Moulin,182.88,176,GK
+192323,Ibrahim Ayew,177.8,165,Outfield
+110150,Kees van Buuren,170.18,157,Outfield
+23141,Paul Gallacher,182.88,174,GK
+157560,William Remy,182.88,174,Outfield
+156553,Sergio Padt,198.12,203,GK
+181654,Michal Miskiewicz,193.04,203,GK
+419238,Konstantinos Rougalas,187.96,174,Outfield
+265924,Gregoire Defrel,177.8,170,Outfield
+12985,Christos Karypidis,185.42,176,Outfield
+246201,Sergio Alvarez,177.8,165,GK
+667964,Victor Braga,193.04,187,GK
+448812,Greg Kiltie,177.8,154,Outfield
+30572,Aaron Galindo,182.88,198,Outfield
+570468,Andre Moreira,195.58,187,GK
+33439,Vladimir Stojkovic,193.04,207,GK
+150464,Andrea Seculin,190.5,176,GK
+570159,Ze Manuel,177.8,157,Outfield
+24410,Daryl Murphy,187.96,181,Outfield
+38253,Guillaume Gillet,185.42,176,Outfield
+72813,Atsuto Uchida,175.26,154,Outfield
+282723,Manuel Pucciarelli,175.26,139,Outfield
+113231,Mike Gomes,182.88,165,Outfield
+466623,Marin Jakolis,182.88,148,Outfield
+255251,Antonio Signori Dominique,185.42,165,GK
+150083,Tarantini,187.96,172,Outfield
+145584,Tengarrinha,185.42,176,Outfield
+187150,Alejandro Martinuccio,177.8,161,Outfield
+22924,Neil Alexander,185.42,163,GK
+104033,Ruud Boffin,195.58,190,GK
+56972,Carlos Sanchez,182.88,181,Outfield
+30850,Zeljko Kalac,203.2,209,GK
+243490,Filip Bednarek,187.96,179,GK
+361013,Mamadou Ba,198.12,190,GK
+240539,Omar Elabdellaoui,177.8,161,Outfield
+80265,Giedrius Arlauskis,182.88,176,GK
+170323,Thibaut Courtois,198.12,194,GK
+49586,Ralf Faehrmann,195.58,209,GK
+24984,Graeme Smith,187.96,181,GK
+39875,Adnan Custovic,185.42,183,Outfield
+40865,Nicolae Dica,180.34,161,Outfield
+346114,Koen Van Langendonck,185.42,192,GK
+588337,Joel Drommel,193.04,172,GK
+229803,Rodrigo Andres Battaglia,187.96,174,Outfield
+163998,Toy Costa,175.26,172,Outfield
+32845,Alan Martin,182.88,165,GK
+36092,Stiven Rivic,180.34,176,Outfield
+39566,Alex Manninger,187.96,187,GK
+520798,Dany da Silva,187.96,172,GK
+71498,Javi Varas,182.88,163,GK
+128106,Alexander Dragovic,185.42,174,Outfield
+32765,Jose Maria Guti,182.88,172,Outfield
+98375,Diogo Viana,175.26,150,Outfield
+128732,Jonathas,190.5,187,Outfield
+209422,Mateusz Prus,187.96,176,GK
+291643,Paul Nardi,187.96,170,GK
+166648,Carlos Bacca,180.34,170,Outfield
+38468,David Fuster Torrijos,177.8,157,Outfield
+172486,Stevie May,177.8,148,Outfield
+116756,Marcin Wodecki,175.26,143,Outfield
+36412,Peter Loevenkrands,180.34,168,Outfield
+201888,Ja-Cheol Koo,182.88,170,Outfield
+43310,Nabil Baha,180.34,174,Outfield
+30811,Steven Cherundolo,172.72,152,Outfield
+96957,Ricardo Ferreira,187.96,168,GK
+45461,Tom Hiariej,177.8,163,Outfield
+121093,Sercan Sararer,180.34,183,Outfield
+69259,Lukasz Zaluska,187.96,190,GK
+181275,Raphael Koch,185.42,165,Outfield
+196828,Mark Millar,172.72,154,Outfield
+242234,Jeremy Dumesnil,182.88,168,GK
+676625,Allan,180.34,154,Outfield
+470720,Ben Richards-Everton,190.5,181,Outfield
+26295,Hugo Lloris,187.96,172,GK
+33025,Andoni Iraola,182.88,163,Outfield
+66890,Senad Lulic,182.88,172,Outfield
+169709,Donald Dering Djousse,182.88,179,Outfield
+39573,Olivier Renard,187.96,170,GK
+203746,Diego Mauricio,182.88,174,Outfield
+178812,Andre Schuerrle,182.88,163,Outfield
+110112,Arjan van Dijk,187.96,172,GK
+25790,Jiri Koubsky,195.58,194,Outfield
+11716,Pedro Roma,185.42,183,GK
+24454,Lorenzo Squizzi,190.5,196,GK
+655544,Josip Posavec,190.5,181,GK
+35407,Pierre-Alain Frau,175.26,161,Outfield
+566158,Kevin Diks,182.88,161,Outfield
+32039,Paulo Santos,185.42,183,GK
+79247,David Pollet,187.96,179,Outfield
+95597,Bertrand Laquait,185.42,176,GK
+30458,Ulrich Rame,187.96,187,GK
+30628,Thomas Hitzlsperger,182.88,181,Outfield
+26002,Kenneth Vermeer,182.88,172,GK
+26275,Alexis Thebaux,185.42,179,GK
+71724,Miguel Layun,177.8,152,Outfield
+40825,Yuri Zhirkov,180.34,165,Outfield
+180134,Georgi Milanov,182.88,163,Outfield
+26290,Damien Gregorini,193.04,198,GK
+625214,Noah Loosli,185.42,165,Outfield
+33640,Maxi Lopez,190.5,194,Outfield
+26117,Mathieu Valverde,187.96,187,GK
+37480,Cani,180.34,165,Outfield
+13472,Arkadiusz Malarz,187.96,190,GK
+23334,Jody Craddock,185.42,172,Outfield
+112027,Khaled Adenon,180.34,154,Outfield
+128689,Sebastian Mielitz,187.96,187,GK
+427893,Jozabed,180.34,148,Outfield
+26510,Gabor Babos,195.58,203,GK
+249237,Uros Vitas,187.96,187,Outfield
+288880,Jack Butland,195.58,209,GK
+39699,David Baiocco,172.72,154,Outfield
+35442,Bradley Jones,190.5,168,GK
+78279,Fredric Loehe,193.04,194,GK
+243482,Benjamin van Leer,187.96,168,GK
+303355,Florian Julien,175.26,154,Outfield
+22418,Peterson Pecanha,182.88,170,GK
+210822,Lars Unnerstall,198.12,220,GK
+26261,Aurelien Capoue,185.42,163,Outfield
+522116,Jorge Kadu,175.26,157,Outfield
+40966,Rui Pedro,177.8,168,Outfield
+74739,Jorge Garcia,182.88,170,Outfield
+101434,Felipe Pardo,177.8,185,Outfield
+289248,Benito Raman,172.72,134,Outfield
+105695,Gal Shish,180.34,157,Outfield
+46892,Anthony Weber,190.5,181,Outfield
+40692,Sandy Paillot,190.5,183,Outfield
+282281,Denis Suarez,180.34,159,Outfield
+154233,Paul Bastien Lasne,185.42,170,Outfield
+160713,Tom Cleverley,175.26,148,Outfield
+643709,Kelechi Iheanacho,187.96,170,Outfield
+33021,Ander Murillo,182.88,185,Outfield
+212147,Sonny Stevens,193.04,192,GK
+36058,Dennis Eilhoff,190.5,198,GK
+29471,Georg Niedermaier,190.5,176,Outfield
+13557,Dawid Soldecki,185.42,172,Outfield
+268284,Kelvin,172.72,148,Outfield
+24549,Giampaolo Pazzini,180.34,163,Outfield
+42929,Gregorz Szamotulski,187.96,198,GK
+37656,Ruben,187.96,176,GK
+33339,Gerhard Tremmel,190.5,190,GK
+238879,Kaye Coppoolse,182.88,174,Outfield
+231804,Ravel Morrison,175.26,157,Outfield
+571298,Miguel Silva,187.96,172,GK
+26241,Olivier Sorin,187.96,168,GK
+41616,David Degen,182.88,185,Outfield
+47193,Angel Cervara,175.26,163,Outfield
+129275,Jon Gudni Fjoluson,190.5,190,Outfield
+37887,Loris Reina,180.34,159,Outfield
+97746,Jens Grahl,193.04,205,GK
+557396,Adam Buksa,190.5,172,Outfield
+426359,Stanislav Kritsyuk,193.04,187,GK
+150389,Massimo Coda,182.88,159,Outfield
+230825,Lorenzo Lollo,180.34,165,Outfield
+266105,Clinton Mata,180.34,159,Outfield
+38252,Frederic Herpoel,182.88,183,GK
+24122,Alexandre Bonnet,172.72,143,Outfield
+38797,Sinan Bolat,190.5,174,GK
+7206,Sebastian Sorsa,175.26,154,Outfield
+40604,Rui Patricio,190.5,185,GK
+33414,Pietro Accardi,182.88,157,Outfield
+17762,Ghislain Gimbert,182.88,176,Outfield
+210387,Alexandre Letellier,190.5,179,GK
+94324,Mathieu Dreyer,187.96,179,GK
+477498,Raul Lizoain,187.96,176,GK
+25779,Marcel Herzog,185.42,174,GK
+609841,Taylor Moore,182.88,176,Outfield
+73409,Oerjan Haaskjold Nyland,193.04,198,GK
+265727,Alexandre Coeff,185.42,159,Outfield
+33884,Jose Moraton,185.42,172,Outfield
+23999,Gary Naysmith,177.8,161,Outfield
+266526,Viktor Fischer,180.34,179,Outfield
+95224,Dragan Djukic,182.88,165,GK
+27424,Rene Adler,190.5,192,GK
+295212,Dani Sotres,182.88,172,GK
+12283,Robert Demjan,182.88,168,Outfield
+24952,Adam Le Fondre,175.26,161,Outfield
+197952,Dejan Stojanovic,195.58,196,GK
+37806,Gil Vermouth,175.26,157,Outfield
+26233,Gennaro Bracigliano,182.88,181,GK
+415113,Matteo Mancosu,182.88,165,Outfield
+68768,Matko Perdijic,195.58,207,GK
+26328,Jacques Faty,182.88,165,Outfield
+97508,Jorge Goncalves,177.8,181,Outfield
+150322,Lionn,182.88,170,Outfield
+46228,Aurelien Collin,187.96,168,Outfield
+23575,Scott Dobie,185.42,187,Outfield
+5243,Julio Alvarez,180.34,157,Outfield
+363364,Ederson Moraes,187.96,183,GK
+118433,Luis Pedro,177.8,148,Outfield
+110154,Wesley de Ruiter,190.5,196,GK
+172610,Damien Le Tallec,182.88,163,Outfield
+139779,Pavol Cicman,175.26,157,Outfield
+267894,Guido Marcelo Carrillo,187.96,196,Outfield
+38953,Nathan Goris,185.42,161,GK
+277348,Thomas Vincensini,182.88,174,GK
+40606,Miguel Garcia,177.8,163,Outfield
+277796,Connor Laerenbergh,180.34,172,Outfield
+156664,Mamadou Samassa,198.12,187,GK
+209556,Maranhao,175.26,150,Outfield
+34480,Davy Schollen,190.5,192,GK
+277821,Ayanda Patosi,175.26,148,Outfield
+36836,Cephas Chimedza,177.8,172,Outfield
+164354,Pedro Trigueira,190.5,205,GK
+46890,Cedric Collet,182.88,168,Outfield
+46059,Erik Quekel,180.34,168,Outfield
+36029,Christopher Heimeroth,193.04,201,GK
+190142,Jed Steer,182.88,176,GK
+169906,Vytautas Cerniauskas,190.5,165,GK
+37548,Carlos Martins,172.72,159,Outfield
+25108,Paulo Sergio,165.1,146,Outfield
+157860,Frederic Duplus,177.8,161,Outfield
+542268,Nikola Milosavljevic,177.8,150,Outfield
+130118,Pablo De Blasis,165.1,143,Outfield
+215168,Bernd Leno,190.5,183,GK
+74736,Roberto Fernandez,180.34,174,GK
+237562,Connor Ripley,190.5,212,GK
+131406,Fred,187.96,183,Outfield
+27560,Antonio Rosati,195.58,179,GK
+45311,Rodrigo Silva,182.88,157,Outfield
+11320,Steeve Elana,187.96,187,GK
+614453,Bart Ramselaar,177.8,161,Outfield
+11778,Roversio,187.96,154,Outfield
+38247,Damir Mirvic,185.42,181,Outfield
+26398,Lucien Aubey,180.34,176,Outfield
+74689,Jaime,187.96,176,GK
+369788,Ibrahim Amadou,182.88,179,Outfield
+11569,Avi Strool,185.42,172,Outfield
+37387,Michael Mutzel,182.88,165,Outfield
+27284,Michael Rensing,190.5,205,GK
+27342,Morten Jensen,190.5,194,GK
+22305,Simone Farelli,185.42,172,GK
+39294,Davide Bassi,190.5,181,GK
+42253,"Marco Haemmerli,24",172.72,159,Outfield
+26420,Benjamin Nivet,177.8,165,Outfield
+70440,Marius Alexe,185.42,165,Outfield
+155246,Angelo da Costa,185.42,179,GK
+31226,Geert De Vlieger,185.42,179,GK
+5440,Marjan Petkovic,185.42,185,GK
+245433,Stefanos Kapinos,195.58,201,GK
+281762,Pietro Terracciano,193.04,172,GK
+27503,Simon Jentzsch,195.58,214,GK
+26112,Benoit Cheyrou,182.88,172,Outfield
+175646,Fernando,175.26,176,Outfield
+26635,Patrick Zwaanswijk,190.5,194,Outfield
+38467,Mariano Damian Barbosa,187.96,165,GK
+35875,Benedikt Pliquett,198.12,209,GK
+32969,David van Zanten,177.8,159,Outfield
+37173,Luigi Bruins,177.8,161,Outfield
+27667,Alfonso De Lucia,185.42,185,GK
+574789,Issa Kallon,170.18,146,Outfield
+150236,Jeroen Zoet,187.96,187,GK
+254241,Stole Dimitrievski,185.42,190,GK
+212873,Daniel Batz,187.96,185,GK
+22785,Stilianos Malezas,193.04,176,Outfield
+289145,Jack Hamilton,187.96,163,GK
+45492,Robert Zwinkels,185.42,181,GK
+638612,Sai van Wermeskerken,170.18,150,Outfield
+38469,Verza,180.34,172,Outfield
+464665,Norman Peyretti,182.88,163,Outfield
+40108,Per Ciljan Skjelbred,175.26,163,Outfield
+25619,Bertin Tomou,187.96,185,Outfield
+157284,Zeljko Brkic,198.12,209,GK
+24503,Sebastian Frey,190.5,198,GK
+140951,Macedo Novaes,182.88,174,GK
+164397,Diogo Melo,182.88,185,Outfield
+119079,Alex McCarthy,193.04,174,GK
+179798,Florin Berenguer,182.88,154,Outfield
+278844,Martijn de Swart,187.96,201,GK
+452269,Lucas Evangelista,180.34,174,Outfield
+38347,Marc Wagemakers,182.88,163,Outfield
+208672,Pablo Chavarria,185.42,163,Outfield
+33688,Jeremy Gavanon,182.88,163,GK
+24399,Ben Alnwick,182.88,176,GK
+27658,Federico Agliardi,190.5,190,GK
+33639,Samuel Eto'o,177.8,165,Outfield
+164316,Marafona,190.5,190,GK
+93361,Jonathan Ayite,182.88,165,Outfield
+174062,Carlos Eduardo,182.88,168,Outfield
+97865,Mario Fernandez Cuesta,185.42,163,GK
+56829,Fernando Muslera,190.5,185,GK
+40570,Charles Mulgrew,190.5,183,Outfield
+59595,Julian Baumgartlinger,182.88,181,Outfield
+19434,Marcelo Boeck,190.5,190,GK
+182843,Alessandro Iacobucci,187.96,181,GK
+21645,David Meul,193.04,183,GK
+133126,Dennis Hediger,175.26,174,Outfield
+27676,Andrea Pisanu,180.34,159,Outfield
+40712,Lionel Cappone,182.88,163,GK
+248123,Lion Kaak,180.34,176,Outfield
+94139,Raphael Wolf,190.5,190,GK
+26461,Erik Nevland,177.8,154,Outfield
+37508,Massimo Paci,187.96,185,Outfield
+264089,Washington,182.88,159,Outfield
+69601,Jakub Wawrzyniak,187.96,187,Outfield
+33731,Esteban,177.8,154,GK
+50651,Raul Fernandez,185.42,185,GK
+37461,Jaime Gavilan,177.8,157,Outfield
+274787,Yvon Mvogo,187.96,185,GK
+43243,Andrew McNeil,180.34,183,GK
+171698,Joel Matip,195.58,198,Outfield
+191140,Jonas Ramalho,180.34,150,Outfield
+510569,Yoan Cardinale,180.34,185,GK
+32746,Morgan De Sanctis,190.5,181,GK
+30820,Diego Benaglio,193.04,196,GK
+45821,Moussa Kalisse,175.26,154,Outfield
+116645,Hiroki Sakai,185.42,165,Outfield
+37401,Khalid Boulahrouz,182.88,176,Outfield
+25535,Ali Boussaboun,177.8,179,Outfield
+45853,Barry Ditewig,190.5,198,GK
+41975,Alex Valentini,185.42,176,GK
+149140,Xavier Luissint,177.8,176,Outfield
+170442,Sidney Schmeltz,177.8,159,Outfield
+31299,Daniel Fernandes,195.58,207,GK
+163665,Fernando Varela,182.88,183,Outfield
+46741,Johan Liebus,185.42,185,GK
+114270,Silvio Rodic,198.12,207,GK
+613972,Karim Rossi,187.96,172,Outfield
+150770,Miku,185.42,176,Outfield
+240235,Danilo Pereira,187.96,176,Outfield
+178804,Christian Clemens,177.8,176,Outfield
+263661,Julian Dudda,193.04,194,Outfield
+34182,Didier Zokora,177.8,159,Outfield
+178770,Fanol Perdedaj,172.72,154,Outfield
+47249,Sebastian Nowak,198.12,212,GK
+113227,Moreno Costanzo,177.8,163,Outfield
+33018,Daniel Aranzubia,185.42,181,GK
+121642,Marc van de Maarel,177.8,163,Outfield
+149845,Douglas,182.88,187,Outfield
+14658,Vladimir Dvalishvili,182.88,181,Outfield
+26126,Yohann Pele,195.58,196,GK
+26711,Nuelson Wau,175.26,148,Outfield
+30679,Florent Malouda,180.34,161,Outfield
+162679,Danny Latza,177.8,168,Outfield
+25840,Veroljub Salatic,185.42,190,Outfield
+101983,Manu Herrera,182.88,165,GK
+89653,Joel Perovuo,187.96,179,Outfield
+37416,Diego Rivas,180.34,176,Outfield
+155936,Ben Amos,193.04,168,GK
+33682,Cees Paauwe,198.12,203,GK
+32665,Barry Wilson,180.34,170,Outfield
+41412,Nicola Legrottaglie,187.96,187,Outfield
+30934,Boubacar Barry Copa,180.34,152,GK
+26663,Martin Pieckenhagen,185.42,190,GK
+23979,Robert Elliot,187.96,205,GK
+289118,Marc McCallum,190.5,172,GK
+38434,Damien Lahaye,180.34,181,GK
+380949,Igor Stefanovic,193.04,190,GK
+42573,Joey Didulica,190.5,172,GK
+92375,Cezary Wilk,182.88,168,Outfield
+42704,Timothy Derijck,185.42,183,Outfield
+213922,Gonzalo Castellani,177.8,168,Outfield
+26345,Damien Perquis,185.42,165,Outfield
+30992,Oscar Ustari,182.88,181,GK
+112978,Roman Buerki,187.96,187,GK
+688876,Dodi Lukebakio,177.8,132,Outfield
+7334,Anssi Jaakkola,193.04,194,GK
+195500,Frederic Mendy,193.04,196,Outfield
+111885,Efrain Juarez,180.34,168,Outfield
+24210,Nicky Weaver,190.5,183,GK
+38536,Enaut Zubikarai,185.42,185,GK
+445856,Wesley Said,170.18,143,Outfield
+352003,Warner Hahn,198.12,187,GK
+32674,Craig Dargo,167.64,141,Outfield
+355347,Lukas Raeder,193.04,192,GK
+211146,Fernando Aristeguieta,187.96,181,Outfield
+276701,Adis Jahovic,190.5,198,Outfield
+363351,Lee Erwin,187.96,174,Outfield
+31085,Won-Hee Cho,177.8,159,Outfield
+71599,Kevin Dupuis,187.96,181,Outfield
+30990,Justo Villar,180.34,187,GK
+257865,William Carvalho,187.96,183,Outfield
+32867,Kris Boyd,185.42,183,Outfield
+94019,Jeremy Choplin,182.88,168,Outfield
+6911,Fabian Canobbio,177.8,165,Outfield
+73462,Kristoffer Nordfeldt,190.5,187,GK
+190010,Christopher Oualembo,175.26,170,Outfield
+37436,Santi Cazorla,167.64,146,Outfield
+46130,Peter van der Vlag,187.96,165,GK
+25657,Ismael Bangoura,175.26,165,Outfield
+33630,Ivan Cuellar,187.96,181,GK
+154267,Diogo Amado,177.8,159,Outfield
+120598,Jonas Loessl,195.58,196,GK
+264578,Tomasz Ptak,190.5,196,GK
+37262,Milan Jovanovic,182.88,168,Outfield
+35481,Rob Hulse,187.96,172,Outfield
+150268,Andre Almeida,185.42,157,Outfield
+639150,Sabin Merino,185.42,176,Outfield
+23073,Matthew Kilgallon,187.96,174,Outfield
+161651,Jose Canas,177.8,152,Outfield
+67389,Enrico Schirinzi,177.8,161,Outfield
+190621,Mulota Kabangu,182.88,172,Outfield
+45605,Albert Crusat,165.1,143,Outfield
+518346,Robin Gosens,182.88,168,Outfield
+38060,Edgar Alvarez,172.72,168,Outfield
+30648,Jens Lehmann,190.5,192,GK
+32087,Dean Moxey,187.96,154,Outfield
+40764,Tarmo Kink,182.88,163,Outfield
+37366,Lionel Djebi-Zadi,187.96,176,Outfield
+625164,Olivier Kemen,177.8,172,Outfield
+34485,Franco Costanzo,187.96,192,GK
+171995,Lulinha,170.18,154,Outfield
+351055,Florin Bejan,185.42,179,Outfield
+474668,Roberto Chen,182.88,159,Outfield
+385299,Tiago Mesquita,180.34,163,Outfield
+25560,Guirane N'Daw,190.5,190,Outfield
+167094,Aleksandar Ignjovski,175.26,154,Outfield
+24886,Michael Pollitt,193.04,194,GK
+129241,Hannes Thor Halldorsson,193.04,192,GK
+40581,Lee Camp,182.88,163,GK
+277845,Hendrik van Crombrugge,187.96,192,GK
+67311,Guillaume Faivre,187.96,183,GK
+129469,Gerson Magrao,180.34,157,Outfield
+25156,Ali Al-Habsi,193.04,174,GK
+41727,Christian Pouga,193.04,198,Outfield
+540098,Tomasz Zajac,170.18,132,Outfield
+33473,Tom Starke,193.04,216,GK
+358713,Vitor Bruno,170.18,152,Outfield
+109222,Vicente Guaita,190.5,179,GK
+27299,Manuel Neuer,193.04,203,GK
+120110,Kim Ojo,193.04,181,Outfield
+426005,Aleksandar Kovacevic,172.72,154,Outfield
+49541,Vincenzo Fiorillo,190.5,174,GK
+30742,Mickael Landreau,182.88,185,GK
+23081,Alan Maybury,180.34,161,Outfield
+12318,Dusan Pernis,190.5,198,GK
+104432,Georgi Makaridze,190.5,187,GK
+68400,Andrew Shinnie,180.34,154,Outfield
+33109,Laurent Pionnier,182.88,170,GK
+501568,Davie Selke,193.04,181,Outfield
+23021,Boaz Myhill,190.5,203,GK
+35955,Scott Boyd,187.96,165,Outfield
+25852,Jean Francois Bedenik,180.34,165,GK
+498033,Marco Asensio,177.8,154,Outfield
+46120,Nordin Amrabat,177.8,170,Outfield
+36835,Bram Verbist,182.88,196,GK
+154261,Oliver Klaus,182.88,176,GK
+36775,Tobias Weis,170.18,148,Outfield
+78902,Ebrahima Ibou Sawaneh,182.88,165,Outfield
+632356,Sangone Sarr,180.34,154,Outfield
+361661,Wojciech Zyska,182.88,168,Outfield
+609711,Luke Watt,175.26,154,Outfield
+22386,Stefano Ferrario,190.5,183,Outfield
+150737,Jose Catala,182.88,168,Outfield
+13473,Maciej Mielcarz,198.12,209,GK
+239213,Michele Camporese,185.42,165,Outfield
+213482,Jorge Pulido,185.42,172,Outfield
+38077,Sam Parkin,187.96,183,Outfield
+321587,Victor Andrade,177.8,154,Outfield
+39890,Mark Volders,187.96,183,GK
+207058,Niclas Heimann,193.04,185,GK
+189101,Jonathan dos Santos,172.72,150,Outfield
+24217,Emre Belozoglu,170.18,159,Outfield
+31684,Abdeslam Ouaddou,190.5,181,Outfield
+183346,Victor Perez,175.26,157,Outfield
+25644,Martin Latka,193.04,192,Outfield
+114018,Mathieu Debonnaire,187.96,179,GK
+661509,Aldin Turkes,193.04,165,Outfield
+46211,Alvaro Anton,177.8,154,Outfield
+163228,Jamie Ness,177.8,157,Outfield
+40080,Toni Kallio,193.04,187,Outfield
+96643,Bojan Krkic,170.18,143,Outfield
+289137,Charlie Taylor,185.42,159,Outfield
+33948,Jason Brown,180.34,212,GK
+42257,Stefan Glarner,177.8,163,Outfield
+265725,Ante Rebic,185.42,170,Outfield
+529324,Jerome Prior,182.88,194,GK
+72401,Andrej Rendla,190.5,170,Outfield
+684002,Hicham Belkaroui,185.42,179,Outfield
+37971,Glenn Verbauwhede,187.96,176,GK
+30940,Blerim Dzemaili,177.8,161,Outfield
+34270,Davide Taini,190.5,194,GK
+80497,Ivan Marcano,187.96,170,Outfield
+311009,Clement Maury,180.34,170,GK
+241996,George Long,193.04,207,GK
+176682,Pavol Bajza,195.58,196,GK
+162885,Eugenio Lamanna,185.42,176,GK
+148792,Kieran Agard,172.72,148,Outfield
+163604,Karl Darlow,185.42,174,GK
+30657,Iker Casillas,185.42,185,GK
+277767,Amidio Balde,193.04,205,Outfield
+449484,Xabi Irureta,180.34,163,GK
+181842,Yaya Soumahoro,175.26,152,Outfield
+22984,Ivan Cordoba,172.72,161,Outfield
+38626,Frederic Page,185.42,179,Outfield
+25993,Rui Nereu,182.88,163,GK
+543021,Vanja Milinkovic-Savic,203.2,203,GK
+45481,Nick van der Velden,187.96,172,Outfield
+25994,Leo,170.18,148,Outfield
+40963,Helton,187.96,176,GK
+526241,Luca Valzania,182.88,159,Outfield
+277849,Kenneth Omeruo,185.42,183,Outfield
+210452,Yoann Court,172.72,154,Outfield
+67896,Steven De Petter,180.34,168,Outfield
+72542,Oier,177.8,159,Outfield
+34487,Aco Stojkov,177.8,165,Outfield
+18500,Maximiliano Pellegrino,182.88,159,Outfield
+264702,Julian Wiessmeier,170.18,146,Outfield
+242229,David Wijns,180.34,170,Outfield
+356378,Luka Djordjevic,182.88,163,Outfield
+207511,Jose Izquierdo,170.18,161,Outfield
+305248,Merveille Goblet,180.34,172,GK
+26376,Julien Quercia,167.64,143,Outfield
+45488,Jens Janse,185.42,163,Outfield
+42434,Roberto Vitiello,175.26,154,Outfield
+33122,Sylvain Marchal,182.88,183,Outfield
+138159,Michal Buchalik,190.5,183,GK
+39351,Doni,193.04,201,GK
+38190,Stefan Reisinger,185.42,181,Outfield
+104482,Daryl Janmaat,185.42,176,Outfield
+243829,Andre Hahn,185.42,176,Outfield
+177683,Anthony Andreu,177.8,161,Outfield
+39591,Axel Witsel,185.42,161,Outfield
+11747,Alessandro Mangiarrati,182.88,172,Outfield
+96623,Sergio Asenjo,187.96,192,GK
+26670,Brian van Loo,198.12,209,GK
+172139,Elton,185.42,181,Outfield
+94883,Alban Meha,175.26,168,Outfield
+435684,Boris Radunovic,193.04,185,GK
+240236,Massadio Haidara,180.34,165,Outfield
+240054,Pablo Sarabia,175.26,154,Outfield
+35338,Jay Bothroyd,190.5,183,Outfield
+200634,Jeremy Serwy,172.72,132,Outfield
+184621,Ohad Levita,187.96,176,GK
+72458,Peter Grajciar,182.88,176,Outfield
+157899,Carreno Enrique Javier,182.88,176,Outfield
+36283,Wayne Hennessey,198.12,198,GK
+101588,Jonathan Reis,182.88,181,Outfield
+32693,Alan Combe,185.42,172,GK
+192326,Elohim Rolland,182.88,170,Outfield
+553476,Sergio Rochet,190.5,176,GK
+35991,Christian Vander,195.58,198,GK
+27504,Andre Lenz,190.5,205,GK
+79775,Renan Bressan,182.88,165,Outfield
+429657,Vanja Markovic,185.42,176,Outfield
+155262,Robert Gucher,182.88,170,Outfield
+361379,Frederico Venancio,185.42,170,Outfield
+30911,Ricardo Carvalho,182.88,174,Outfield
+165528,Ibrahim Kone,190.5,187,GK
+27518,Florian Fromlowitz,185.42,183,GK
+147733,Mohamed Amsif,187.96,196,GK
+113695,Cristian Alvarez,185.42,194,GK
+289217,David Moberg Karlsson,177.8,168,Outfield
+192807,Samba Diakite,185.42,168,Outfield
+206592,Darren Keet,182.88,170,GK
+67396,Frederic Schaub,180.34,154,Outfield
+213684,Jordi Masip,177.8,159,GK
+303568,Jeroen Lumu,180.34,141,Outfield
+114268,Dejan Lovren,187.96,185,Outfield
+37839,Bart Deelkens,187.96,185,GK
+282706,Alessio Cragno,182.88,172,GK
+20174,Koki Mizuno,172.72,128,Outfield
+463529,Patryk Mikita,185.42,161,Outfield
+36841,Jonas De Roeck,187.96,176,Outfield
+30622,Paul Robinson,193.04,198,GK
+26310,Cristian Rodriguez,177.8,165,Outfield
+149260,Tom Muyters,187.96,181,GK
+280438,Harlem-Eddy Gnohere,185.42,181,Outfield
+303922,Jordan Roberts,180.34,157,Outfield
+406257,Nacho Martinez,175.26,152,Outfield
+25942,Rui Sacramento,182.88,174,GK
+43283,Eduardo,187.96,185,GK
+93484,Aly Cissokho,180.34,165,Outfield
+30832,Luis Garcia,177.8,163,Outfield
+31470,Andrea Guatelli,198.12,212,GK
+164317,Matos,190.5,201,GK
+80194,Filipp Rudik,182.88,157,Outfield
+298665,Chuks Aneke,187.96,207,Outfield
+11860,Jose Manuel Ze Gomes,175.26,174,Outfield
+161420,Emmanuel Riviere,182.88,168,Outfield
+68813,Przemyslaw Tyton,193.04,187,GK
+22125,Paulo Lopes,185.42,176,GK
+13034,Michalis Sifakis,185.42,174,GK
+38433,Borja Valero,175.26,161,Outfield
+315036,Cassio Magalhaes,172.72,150,Outfield
+36072,Jacek Krzynowek,177.8,161,Outfield
+46518,Asmir Begovic,200.66,183,GK
+41243,Francesco Antonioli,187.96,181,GK
+37854,Frank Boeckx,180.34,187,GK
+16362,Andjelko Djuricic,190.5,187,GK
+103372,Elinton Andrade,190.5,190,GK
+38365,Sebastien Siani,175.26,168,Outfield
+298933,Robin Propper,193.04,181,Outfield
+8840,Cristian Florin Ianu,177.8,159,Outfield
+128239,Steven Deana,187.96,183,GK
+264885,Ivan Balliu,172.72,141,Outfield
+364779,Salomon Nirisarike,185.42,181,Outfield
+40180,Pedro Correia,180.34,159,Outfield
+127712,Declan Rudd,190.5,187,GK
+23772,Graham Stack,187.96,174,GK
+282774,Nicolas,190.5,187,GK
+41087,Ron-Robert Zieler,187.96,183,GK
+166672,Stefan Deloose,190.5,187,GK
+46554,Alexandre Pato,180.34,179,Outfield
+30371,Philip Neville,180.34,168,Outfield
+33812,Sebastien Squillaci,185.42,176,Outfield
+309050,Dariusz Trela,187.96,176,GK
+642604,Caleb Gomina,177.8,161,Outfield
+188054,Ioannis Fetfatzidis,165.1,141,Outfield
+40937,Tiago,182.88,181,GK
+35453,Ricardo Batista,193.04,174,GK
+163939,Ze Mario,180.34,154,Outfield
+38044,Ikechukwu Uche,177.8,157,Outfield
+22428,Cristiano,175.26,152,Outfield
+26576,Rob van Dijk,187.96,183,GK
+150217,Dennis Telgenkamp,193.04,192,GK
+42829,Jelle ten Rouwelaar,185.42,187,GK
+170667,Rene Krhin,187.96,172,Outfield
+39725,Bogdan Lobont,185.42,172,GK
+164771,Filipe Brigues,177.8,159,Outfield
+569038,Bobo,182.88,165,Outfield
+101584,Cassio,195.58,220,GK
+182193,Fraser Fyvie,172.72,132,Outfield
+38327,Wouter Biebauw,187.96,181,GK
+414788,Gianluca Pegolo,182.88,168,GK
+27677,Ivan Pelizzoli,193.04,196,GK
+26211,Laurent Agouazi,182.88,165,Outfield
+154280,Jordan Ayew,182.88,179,Outfield
+37623,Roberto,193.04,190,GK
+23724,Chris Killen,182.88,157,Outfield
+186813,Loic Abenzoar,182.88,168,Outfield
+95533,"Maciej Malkowski,24",170.18,150,Outfield
+24260,Craig Easton,177.8,157,Outfield
+132814,Joel Mall,193.04,183,GK
+308842,Dobrivoj Rusov,190.5,170,GK
+681965,Aly Ndom,187.96,176,Outfield
+315793,Patryk Stepinski,177.8,137,Outfield
+304017,Christian Irobiso,190.5,170,Outfield
+28907,Pablo Sebastian Alvarez,177.8,181,Outfield
+26590,Sekou Cisse,182.88,172,Outfield
+39425,Alberto Fontana,185.42,161,GK
+95076,Georges Mandjeck,182.88,165,Outfield
+282012,Dennis Praet,180.34,172,Outfield
+37233,Vito Mannone,187.96,176,GK
+263673,Jamie Masson,170.18,141,Outfield
+659742,Sandro Lauper,185.42,154,Outfield
+34421,Chris Kirkland,190.5,163,GK
+209785,Nick Marsman,187.96,194,GK
+173965,Raul Navas,185.42,183,Outfield
+36789,Danko Lazovic,182.88,176,Outfield
+179310,Waldemar Sobota,175.26,139,Outfield
+39510,Andrea Campagnolo,182.88,159,GK
+95955,Andre Ayew,175.26,159,Outfield
+39284,Giovanni Marchese,180.34,165,Outfield
+26307,Rod Fanni,185.42,172,Outfield
+17883,"Emanuel Obiora Odita,19",182.88,179,Outfield
+26173,Faryd Mondragon,190.5,207,GK
+30675,Michael Essien,177.8,187,Outfield
+39273,Gennaro Sardo,190.5,192,Outfield
+107280,Ashley Barnes,185.42,168,Outfield
+299380,Dan Twardzik,182.88,170,GK
+660010,Pedro Pereira,175.26,154,Outfield
+232143,Martin Polacek,198.12,209,GK
+278285,Paulo Gazzaniga,195.58,198,GK
+439369,Ryan Christie,177.8,154,Outfield
+38484,Juan Carlos,182.88,168,GK
+196238,Damian Dabrowski,177.8,161,Outfield
+496549,Renato,182.88,168,Outfield
+33641,Santiago Ezquerro,180.34,154,Outfield
+39379,Roy Beerens,172.72,139,Outfield
+173384,Xandao,193.04,185,Outfield
+303059,Bertrand Traore,180.34,159,Outfield
+33620,Jelle van Damme,190.5,198,Outfield
+22535,Elson,172.72,148,Outfield
+6757,Denis Dessaer,190.5,196,Outfield
+254472,Danny Ward,190.5,194,GK
+150510,Samuel Yeboah,177.8,150,Outfield
+19403,Galatto,193.04,201,GK
+39562,Abdoulay Konko,182.88,157,Outfield
+23574,Kris Commons,167.64,141,Outfield
+41129,Paolo Acerbis,203.2,190,GK
+40094,Rune Almenning Jarstein,190.5,181,GK
+195927,Enner Valencia,175.26,163,Outfield
+265363,Chris Loewe,172.72,139,Outfield
+477595,Javier Noblejas,187.96,170,Outfield
+40018,Kevin Monnet-Paquet,182.88,161,Outfield
+46535,Thierry Debes,185.42,159,GK
+186621,Rami Gershon,187.96,194,Outfield
+38824,Pascal Cygan,193.04,187,Outfield
+169217,Alejandro Bedoya,177.8,161,Outfield
+728125,Christopher McLaughlin,177.8,161,Outfield
+31916,Adam Rooney,177.8,172,Outfield
+46344,Elliot Grandin,177.8,146,Outfield
+45587,Patrick Ada,182.88,198,Outfield
+37456,David Cobeno,185.42,181,GK
+42259,Matteo Gritti,185.42,176,GK
+38460,Diego Forlan,180.34,172,Outfield
+33827,Inaki Goitia,187.96,179,GK
+174030,Jesus Fernandez,190.5,183,GK
+32657,Victor Valdes,182.88,172,GK
+33422,Guillermo Rodriguez,185.42,187,Outfield
+96836,Ricardo,187.96,185,GK
+33101,Jose Paolo Guerrero,185.42,181,Outfield
+35708,Uwe Huenemeier,187.96,185,Outfield
+35336,Kyle Letheren,187.96,183,GK
+42327,Evangelos Mantzios,190.5,179,Outfield
+178538,Filip Djuricic,182.88,161,Outfield
+11498,Stuart Nelson,187.96,185,GK
+31052,Eddie Johnson,182.88,179,Outfield
+35121,Jesper Juelsgaard,180.34,181,Outfield
+196185,Arkadiusz Piech,170.18,159,Outfield
+11865,"Ferreira Delson,28",175.26,154,Outfield
+32931,Paul Burns,177.8,141,Outfield
+186811,Mathieu Gorgelin,187.96,183,GK
+66902,Luca Ferro,193.04,198,GK
+26052,Laurent Bonnart,170.18,137,Outfield
+35463,Willo Flood,167.64,137,Outfield
+300236,Emanuele Suagher,193.04,181,Outfield
+57114,Romulo Togni,182.88,168,Outfield
+101042,Aaron Meijers,175.26,170,Outfield
+103485,Jules Stephane Goda,190.5,194,GK
+116881,Adrian Paluchowski,180.34,165,Outfield
+42098,Reto Bolli,182.88,172,GK
+37511,Juan Jesus Calatayud,190.5,194,GK
+27697,Luca Castellazzi,193.04,196,GK
+190741,Ali Ahamada,187.96,183,GK
+39769,Tommaso Berni,185.42,176,GK
+678384,Silvan Hefti,182.88,172,Outfield
+446266,Mario Pasalic,185.42,172,Outfield
+470003,Conor Brennan,185.42,198,GK
+93450,Wojciech Kaczmarek,200.66,218,GK
+38435,Fabien Camus,175.26,150,Outfield
+426612,Cheikh Ndoye,193.04,198,Outfield
+26215,Flavio Roma,190.5,190,GK
+30900,Kossi Agassa,190.5,187,GK
+300532,Sergio Rico,193.04,194,GK
+164147,Bura,193.04,187,Outfield
+26612,Mads Junker,182.88,168,Outfield
+279855,Farid El Alagui,185.42,183,Outfield
+274780,Imran Bunjaku,177.8,148,Outfield
+38520,Sergio Sanchez,190.5,183,GK
+409816,Mahamadou-Naby Sarr,195.58,207,Outfield
+41186,Christophe Revault,185.42,194,GK
+361712,Adam Dzwigala,185.42,176,Outfield
+244953,Ziggy Gordon,180.34,170,Outfield
+42265,Miguel Portillo,177.8,168,Outfield
+277443,Alexi Peuget,185.42,165,Outfield
+28110,Daniel Swanson,167.64,130,Outfield
+22982,Philip Chidi Onyemah,180.34,174,Outfield
+156793,Fabian Rinaudo,175.26,172,Outfield
+528873,David Goldar,180.34,170,Outfield
+114333,Lukas Marecek,182.88,152,Outfield
+132701,Henri Anier,182.88,183,Outfield
+69004,Mateusz Bak,185.42,187,GK
+186975,Apostolos Vellios,190.5,172,Outfield
+30915,Ryan Babel,185.42,170,Outfield
+42650,Cristian Raimondi,182.88,172,Outfield
+70288,Michael Parkhurst,180.34,159,Outfield
+26238,Landry N'Guemo,172.72,154,Outfield
+107001,Pavels Steinbors,193.04,203,GK
+66940,Raul Marcelo Bobadilla,180.34,194,Outfield
+160495,Nathaniel Wedderburn,185.42,187,Outfield
+41618,Yann Sommer,182.88,174,GK
+37117,Michael Cordier,182.88,165,GK
+34003,Ludovic Butelle,187.96,185,GK
+568911,Joao Afonso,187.96,187,Outfield
+33599,Daniel Moreira,177.8,165,Outfield
+155278,Masahudu Alhassan,175.26,143,Outfield
+416409,German,187.96,172,GK
+208493,Samuel,190.5,183,Outfield
+30717,Gianluigi Buffon,193.04,201,GK
+173389,Javier Ros,175.26,152,Outfield
+72489,Matus Putnocky,195.58,201,GK
+115067,Nemanja Matic,193.04,185,Outfield
+66757,Lucas Hradecky,190.5,176,GK
+555647,Robert Bartczak,177.8,157,Outfield
+95977,Damien Rascle,187.96,198,GK
+39390,Luigi Lavecchia,177.8,165,Outfield
+26116,Luigi Pieroni,187.96,185,Outfield
+188114,Laglais Xavier Kouassi,172.72,150,Outfield
+46412,Alharbi El Jadeyaoui,177.8,154,Outfield
+667962,Rodrigo Pinho,185.42,174,Outfield
+730065,Jorge Intima,175.26,159,Outfield
+23133,Adam Drury,180.34,161,Outfield
+38357,Oleg Iachtchouk,182.88,172,Outfield
+33644,Antonio Doblas,182.88,179,GK
+207642,Santiago Arias,175.26,150,Outfield
+34947,"Bennedict McCarthy,27",182.88,192,Outfield
+9086,Ivica Vrdoljak,187.96,192,Outfield
+38372,Yoshito Okubo,167.64,134,Outfield
+30950,Gilberto,180.34,170,Outfield
+198500,Djordje Susnjar,185.42,172,Outfield
+30699,Michael Ballack,187.96,194,Outfield
+150747,Etrit Berisha,193.04,203,GK
+52160,Renny Vega,180.34,161,GK
+201915,Abdoulaye Diaby,172.72,154,Outfield
+38367,Andrija Delibasic,187.96,185,Outfield
+141114,Tobias Kempe,182.88,170,Outfield
+199834,Remy Cabella,170.18,150,Outfield
+30789,Petit,175.26,159,Outfield
+25975,Steven Jennings,175.26,157,Outfield
+25947,Marco Woelfli,185.42,183,GK
+181069,Matz Sels,187.96,181,GK
+516273,Matthew Pennington,185.42,170,Outfield
+157303,Adam Bogdan,193.04,198,GK
+274778,Marco Kehl-Gomez,180.34,172,Outfield
+42116,Sebastian Meoli,185.42,176,Outfield
+213801,Youri Loen,177.8,161,Outfield
+26519,Said Boutahar,172.72,150,Outfield
+43230,Robert Olejnik,187.96,183,GK
+424128,Michael Heylen,187.96,190,Outfield
+40648,Antonio Adan,190.5,203,GK
+295069,Conor Townsend,182.88,161,Outfield
+23265,"Patrick Kenny,30",185.42,209,GK
+150176,Fabio,172.72,143,Outfield
+105828,Rafael,187.96,176,GK
+563215,Abdou Diallo,182.88,159,Outfield
+178800,Manuel Gulde,182.88,170,Outfield
+176691,Uros Matic,182.88,170,Outfield
+252672,Michal Szromnik,190.5,176,GK
+208718,Laurent Henkinet,187.96,192,GK
+39054,Ismael Bouzid,190.5,190,Outfield
+41601,Nicolas Beney,182.88,176,GK
+41671,Emiliano Viviano,195.58,198,GK
+37254,Mahamadou Samassa,187.96,185,GK
+667786,Jaquite,172.72,148,Outfield
+36771,Julian Schuster,190.5,172,Outfield
+429655,Kamil Sylwestrzak,187.96,168,Outfield
+38848,Milivoje Novakovic,193.04,187,Outfield
+620136,Luis Maria Zwick,190.5,165,GK
+177760,Billy McKay,170.18,150,Outfield
+79747,Sergey Krivets,177.8,168,Outfield
+30248,Alan Smith,180.34,179,Outfield
+500575,Rafael Defendi,190.5,194,GK
+40466,Helgi Valur Danielsson,185.42,172,Outfield
+610533,Alioun Fall,170.18,152,Outfield
+103468,Johny Placide,180.34,196,GK
+160901,David Moser,185.42,165,GK
+154928,Roland Gigolaev,175.26,154,Outfield
+564712,Abdoul Ba,200.66,212,Outfield
+40583,Scott Flinders,193.04,192,GK
+38395,Alberto Cifuentes,187.96,148,GK
+245156,Sava Miladinovic Bento,182.88,159,Outfield
+95257,Jakob Jantscher,177.8,154,Outfield
+41066,Michael McGovern,190.5,196,GK
+156175,Tomas Vaclik,187.96,187,GK
+104410,Robin Henkens,175.26,161,Outfield
+42276,David Zibung,187.96,192,GK
+112935,Mads Albaek,182.88,168,Outfield
+30266,Artur Wichniarek,182.88,174,Outfield
+213504,Diego Marino,185.42,165,GK
+22313,Elkin Soto,177.8,165,Outfield
+24147,Ben Foster,193.04,198,GK
+67342,Odirlei De Souza Gaspar,177.8,159,Outfield
+28955,Wilfredo Caballero,185.42,176,GK
+24149,Floribert Ngalula,182.88,172,Outfield
+287337,Filip Helander,193.04,183,Outfield
+40959,Hugo Ventura,182.88,174,GK
+68835,Grzegorz Kasprzik,185.42,194,GK
+13033,Orestis Karnezis,190.5,174,GK
+26313,Jerome Alonzo,185.42,183,GK
+604345,Sebastiaan Brebels,182.88,165,Outfield
+36872,Kenny Steppe,185.42,154,GK
+37335,Lukas Kruse,185.42,185,GK
+41458,Massimo Zenildo Zappino,187.96,183,GK
+115723,Jules Reimerink,185.42,174,Outfield
+98959,Josh Law,172.72,154,Outfield
+37990,Stijn Stijnen,187.96,183,GK
+42353,Marcelo Lipatin,180.34,168,Outfield
+304563,Emmanuel Herrera,182.88,185,Outfield
+41280,Graziano Pelle,193.04,185,Outfield
+26350,Jody Viviani,190.5,179,GK
+31436,Dennis Wyness,177.8,159,Outfield
+31731,Gianni Zuiverloon,177.8,163,Outfield
+245530,Suk-Young Yun,182.88,163,Outfield
+35472,Emmerson Boyce,182.88,157,Outfield
+45571,Ben Hamer,193.04,172,GK
+160243,Jack Colback,175.26,154,Outfield
+40014,Sebastien Chabbert,185.42,176,GK
+448805,Christian Mathenia,187.96,198,GK
+263511,Maxime Dupe,185.42,192,GK
+396526,Ruben Blanco,187.96,154,GK
+281936,Kerim Frei Koyunlu,170.18,146,Outfield
+654084,Kyle Knoyle,177.8,139,Outfield
+31187,Tomas Galasek,180.34,181,Outfield
+237646,Jimmy De Jonghe,170.18,148,Outfield
+143939,Soufiane Dadda,172.72,148,Outfield
+354472,Yrondu Musavu-King,185.42,183,Outfield
+41665,Davide Possanzini,180.34,159,Outfield
+13428,Slawomir Peszko,172.72,154,Outfield
+41881,Antonio Chimenti,182.88,183,GK
+194632,Mika,195.58,198,GK
+109281,Pape M'Bow,190.5,163,Outfield
+24579,Mark Bunn,182.88,172,GK
+202215,Renan,190.5,172,GK
+149917,Jordon Mutch,187.96,179,Outfield
+610668,David Ivan,172.72,150,Outfield
+35554,Ian Evatt,190.5,194,Outfield
+167563,James Chambers,180.34,170,Outfield
+27488,Christian Wetklo,190.5,203,GK
+120917,Ahmed Kashi,177.8,168,Outfield
+37470,David Cortes,180.34,163,Outfield
+43284,Pedro Costa,167.64,154,Outfield
+463957,Jakub Wrabel,193.04,192,GK
+186137,Phil Jones,185.42,157,Outfield
+249057,Wojciech Pawlowski,190.5,181,GK
+159883,Yohan Thuram Ulien,187.96,187,GK
+467467,Elso Brito,182.88,152,Outfield
+484858,Albert Rusnak,180.34,143,Outfield
+183498,Javi Lara,177.8,161,Outfield
+42582,Antimo Iunco,172.72,150,Outfield
+24368,Jamie Ashdown,190.5,203,GK
+22706,Kostadin Hazurov,185.42,179,Outfield
+2862,Vicente Sanchez,170.18,146,Outfield
+30577,Custodio,180.34,165,Outfield
+557356,Gracjan Horoszkiewicz,190.5,179,Outfield
+26354,Mouhamadou Dabo,175.26,143,Outfield
+97487,Davide Lanzafame,180.34,165,Outfield
+41807,Gabriele Aldegani,195.58,201,GK
+13320,Krzysztof Kotorowski,187.96,190,GK
+23984,Carlo Cudicini,185.42,176,GK
+24985,Graeme Smith,187.96,172,GK
+26818,Anders Lindegaard,193.04,174,GK
+24064,Kieren Westwood,187.96,190,GK
+206801,Lukasz Budzilek,185.42,176,GK
+237645,Andreas Hirzel,190.5,196,GK
+116243,Rafael Romo,198.12,187,GK
+130596,Tiago Luis,175.26,163,Outfield
+287689,Formose Mendy,182.88,168,Outfield
+42184,Umit Ozat,185.42,163,Outfield
+704523,Christopher Nkunku,175.26,141,Outfield
+27255,Thomas Kessler,198.12,203,GK
+127945,Marcel Risse,182.88,165,Outfield
+42710,Maikel Aerts,195.58,201,GK
+25863,Bastien Geiger,177.8,159,Outfield
+41582,Marquitos,177.8,161,Outfield
+263260,Mauro,177.8,159,Outfield
+31938,Marco Cassetti,185.42,183,Outfield
+22822,Aleksander Seliga,185.42,174,GK
+232094,Declan Gallagher,195.58,190,Outfield
+37377,Markus Miller,187.96,203,GK
+171091,Moritz Hartmann,182.88,170,Outfield
+40186,Mario Felgueiras,185.42,176,GK
+13423,Marcin Wasilewski,185.42,194,Outfield
+9213,Peter Czvitkovics,177.8,172,Outfield
+611840,Dalcio Gomes,185.42,176,Outfield
+112881,Joao Luiz,182.88,172,Outfield
+67302,Michael Perrier,172.72,148,Outfield
+181911,Vid Belec,193.04,185,GK
+38866,Paul Lawson,170.18,161,Outfield
+487334,Ofir Marciano,193.04,192,GK
+303919,Jordan Pickford,185.42,170,GK
+23686,Manuel Almunia,193.04,205,GK
+181220,Khadare Guirassy Abdou,175.26,150,Outfield
+30585,Pedro Mendes,177.8,170,Outfield
+301241,Ross Barbour,177.8,157,Outfield
+27440,Marek Mintal,182.88,179,Outfield
+30727,Alessandro Del Piero,175.26,163,Outfield
+37185,Andwele Slory,170.18,154,Outfield
+169718,Wojciech Szczesny,195.58,185,GK
+26523,Nicolas Douchez,185.42,179,GK
+302583,Minor Escoe,175.26,154,Outfield
+32658,Mark Brown,185.42,172,GK
+186891,Scott Bain,180.34,165,GK
+35682,Gheorghe Ogararu,177.8,159,Outfield
+29622,Selim Teber,187.96,183,Outfield
+210046,Vladan Giljen,187.96,187,GK
+43006,Hans-Peter Berger,177.8,176,GK
+620128,Calvin Colquhoun,182.88,168,Outfield
+33959,Ion Ansotegi,193.04,185,Outfield
+73167,Henrik Mkhitaryan,177.8,165,Outfield
+480778,Juan Delgado,177.8,157,Outfield
+40602,John Ruddy,193.04,212,GK
+40714,Remy Riou,187.96,179,GK
+150021,Karl-Johan Johnsson,187.96,185,GK
+26169,Aleksandr Hleb,185.42,161,Outfield
+26224,Benjamin Nicaise,182.88,185,Outfield
+114762,Manolo Reina,185.42,176,GK
+38807,James Milner,175.26,154,Outfield
+265273,Gabriel,193.04,198,GK
+67402,Paolo Collaviti,180.34,183,GK
+35607,Frank Fahrenhorst,190.5,170,Outfield
+177532,Steve Williams,193.04,187,Outfield
+26520,Romano Denneboom,187.96,198,Outfield
+668725,Thibang Phete,187.96,170,Outfield
+150644,Jonathan Pereira,167.64,134,Outfield
+25571,Achille Emana,180.34,170,Outfield
+41023,Juan,182.88,163,Outfield
+173432,Stefan Nikolic,193.04,190,Outfield
+24235,Leonardo Bonucci,190.5,190,Outfield
+41622,Felipe Caicedo,182.88,185,Outfield
+361314,Rafael Veloso,193.04,176,GK
+36479,Thorsten Kirschbaum,193.04,198,GK
+25584,Cribari,185.42,159,Outfield
+186054,Joel Robles,195.58,198,GK
+39323,Matteo Sereni,185.42,176,GK
+115006,Bartosz Kaniecki,195.58,201,GK
+214397,Pele van Anholt,165.1,154,Outfield
+33826,Francesco Arnau,185.42,179,GK
+67941,Xavier Chen,175.26,152,Outfield
+23144,Jurgen Colin,182.88,168,Outfield
+354519,Antonio Reguero Chapinal,182.88,176,GK
+71619,Anthony Annan,175.26,141,Outfield
+359194,Quini,180.34,159,Outfield
+38217,Wilfried Sanou,165.1,141,Outfield
+149006,Toko Nzuzi,170.18,146,Outfield
+40621,Gabriel Paletta,190.5,194,Outfield
+466117,Sebastien Locigno,182.88,150,Outfield
+30660,Pepe Reina,187.96,203,GK
+32034,Bruno Vale,193.04,185,GK
+115268,Michal Peskovic,187.96,194,GK
+37423,Hipolito Poli,185.42,161,Outfield
+38391,Silvio Proto,185.42,170,GK
+35125,Leon Jessen,182.88,170,Outfield
+279392,Robin Quaison,182.88,168,Outfield
+350986,Wilfried Kanon,187.96,187,Outfield
+300917,Betinho,177.8,163,Outfield
+178484,Moussa Traore,182.88,174,Outfield
+33632,Maxi Rodriguez,180.34,174,Outfield
+43282,Dani Mallo,185.42,183,GK
+310374,Euan Murray,182.88,172,Outfield
+281205,Andre Sousa,180.34,172,Outfield
+163206,Josh Thompson,193.04,168,Outfield
+46469,Olivier Giroud,193.04,194,Outfield
+25018,Heinz Mueller,195.58,207,GK
+46365,Artur Krysiak,193.04,183,GK
+37937,Davino Verhulst,193.04,198,GK
+27232,Sebastian Schachten,190.5,187,Outfield
+69805,Stepan Kucera,190.5,192,Outfield
+242243,William Dutoit,182.88,172,GK
+26587,Boldiszar Bodor,180.34,179,Outfield
+96613,Diego Alves,187.96,183,GK
+67357,Christian Leite,182.88,187,GK
+46241,Mbaye Niang,182.88,165,Outfield
+127209,Anders Christiansen,175.26,165,Outfield
+121854,Luiz Carlos,190.5,190,GK
+243789,Victor Garcia,175.26,154,Outfield
+32584,Jamie MacDonald,185.42,174,GK
+170322,Koen Casteels,198.12,190,GK
+279107,Kevin Jansen,177.8,170,Outfield
+32633,Zbigniew Malkowski,187.96,181,GK
+141576,Enda Stevens,182.88,172,Outfield
+301237,Brad McKay,182.88,165,Outfield
+184138,Antoine Griezmann,175.26,148,Outfield
+40965,Pedro Emanuel,182.88,170,Outfield
+183585,Edin Cocalic,190.5,190,Outfield
+41199,Fredy Guarin,182.88,170,Outfield
+93341,Florian Bague,180.34,174,GK
+26410,Quentin Westberg,182.88,174,GK
+181376,Wesllem,175.26,159,Outfield
+171789,Lee Hodson,175.26,157,Outfield
+72707,Tim Matavz,187.96,179,Outfield
+37979,Jonathan Blondel,172.72,146,Outfield
+2796,Javier Jimenez,182.88,170,GK
+213702,Isaac Cuenca,172.72,148,Outfield
+46884,Christophe Mandanne,170.18,137,Outfield
+173730,Tornike Okriashvili,180.34,157,Outfield
+581726,Raul Gudino,195.58,185,GK
+196366,Anthony Ujah,177.8,179,Outfield
+527103,Breel Embolo,185.42,185,Outfield
+23794,Thomas Sorensen,195.58,196,GK
+157723,Christian Eriksen,177.8,157,Outfield
+183519,Pape Ndiaye Souare,177.8,150,Outfield
+171981,Felipe,190.5,190,GK
+12340,"Richard Zajac,28",185.42,179,GK
+45205,Maor Bar Buzaglo,175.26,159,Outfield
+35636,Amdy Faye,182.88,172,Outfield
+279175,Baptiste Reynet,185.42,187,GK
+24229,Tim Krul,193.04,181,GK
+69254,Marek Szyndrowski,182.88,165,Outfield
+115488,Paulo Arantes,182.88,172,Outfield
+24624,Marcelo Zalayeta,187.96,196,Outfield
+136540,Krzysztof Krol,185.42,161,Outfield
+277772,Zinho Gano,198.12,205,Outfield
+33753,Gustavo Adolfo Munua,187.96,192,GK
+518535,Gino Bosz,187.96,154,Outfield
+24494,Cesar Sanchez,185.42,181,GK
+36054,Marc Ziegler,193.04,203,GK
+358156,Joel Untersee,177.8,163,Outfield
+264085,Ismael Diomande,182.88,181,Outfield
+33022,Luis Prieto,180.34,165,Outfield
+688295,Christian Pulisic,172.72,152,Outfield
+41948,Luca Anania,185.42,176,GK
+121639,Moussa Maazou,185.42,174,Outfield
+25922,Marek Cech,182.88,163,Outfield
+34530,Christian Abbiati,190.5,203,GK
+31568,Soeren Rieks,185.42,165,Outfield
+17600,Darren McGregor,182.88,192,Outfield
+19515,Cassio,185.42,174,GK
+393232,Phillip Roberts,177.8,157,Outfield
+664587,Lassana Coulibaly,175.26,148,Outfield
+50669,Christian Puggioni,187.96,179,GK
+396912,Albert Rafetraniaina,175.26,143,Outfield
+33732,Jose Manuel Pinto,185.42,181,GK
+27341,"Robert Enke,30",185.42,172,GK
+467024,Hidde Jurjus,187.96,170,GK
+37579,Tono,182.88,176,GK
+28439,Sergio Sanchez,185.42,168,Outfield
+37489,Nino,170.18,150,Outfield
+597948,Aaron Splaine,172.72,163,Outfield
+213299,Nicola Leali,187.96,172,GK
+206711,Mauro Goicoechea,185.42,185,GK
+14100,Alan Mannus,187.96,203,GK
+40454,Shpetim Hasani,182.88,172,Outfield
+173449,Renato Neto,185.42,183,Outfield
+32664,Roy McBain,180.34,159,Outfield
+41632,"Gilberto Martinez Vidal,27",175.26,159,Outfield
+32865,Nacho Novo,175.26,154,Outfield
+39354,Emanuele Manitta,187.96,183,GK
+30582,Jose Moreira,185.42,183,GK
+26468,Bruno Silva,177.8,174,Outfield
+32679,Michael Fraser,187.96,174,GK
+684552,Hassan,182.88,163,Outfield
+45237,Paulao,187.96,194,Outfield
+23117,John Sutton,185.42,196,Outfield
+427984,Felitciano Zschusschen,187.96,154,Outfield
+33845,Miguel Angel Moya,187.96,181,GK
+30281,Francesco Toldo,195.58,198,GK
+41146,Cedric Faure,187.96,183,Outfield
+181377,Leon Ter Wielen,195.58,198,GK
+239856,Jon Flanagan,180.34,152,Outfield
+58351,Ibrahima Traore,172.72,134,Outfield
+115980,Garath McCleary,182.88,168,Outfield
+279866,Donovan Leon,185.42,194,GK
+564854,Jean Chopin,195.58,198,GK
+79574,Ramires,180.34,154,Outfield
+281111,Ewerton,187.96,183,Outfield
+261597,Muamer Tankovic,177.8,163,Outfield
+23950,Dean Kiely,185.42,172,GK
+185644,Mathew Ryan,182.88,181,GK
+114822,Grzegorz Sandomierski,195.58,190,GK
+214984,Esteban Alvarado,193.04,187,GK
+540307,Lorenzo Pellegrini,185.42,181,Outfield
+570835,Pedro Nuno,175.26,150,Outfield
+95335,Ryan Flynn,170.18,132,Outfield
+145583,Fellipe Bastos,180.34,181,Outfield
+25419,Ladji Keita,187.96,181,Outfield
+13518,Lukasz Piszczek,182.88,174,Outfield
+37976,Jason Vandelannoite,177.8,176,Outfield
+23793,Stuart Taylor,195.58,190,GK
+37216,Piet Velthuizen,187.96,198,GK
+120621,Douglas,187.96,194,GK
+110110,Ryan Koolwijk,195.58,165,Outfield
+39286,Michele Marcolini,172.72,157,Outfield
+294407,Ilija Ivic,185.42,174,Outfield
+38504,Andre Bikey,182.88,176,Outfield
+432470,Timo Plattel,185.42,154,GK
+24502,Marco Donadel,177.8,161,Outfield
+79985,Nauris Bulvitis,190.5,181,Outfield
+586474,Kingsley Ehizibue,187.96,181,Outfield
+364813,Samuel Asamoah,162.56,132,Outfield
+131117,Caleb Patterson-Sewell,190.5,192,GK
+33588,Haris Medunjanin,187.96,168,Outfield
+77727,Conor Sammon,185.42,165,Outfield
+181574,Maeel Lepicier,185.42,183,Outfield
+43321,Piotr Brozek,177.8,163,Outfield
+26532,Peter Wisgerhof,180.34,185,Outfield
+282060,Matos,180.34,157,Outfield
+581798,Obbi Oulare,195.58,207,Outfield
+50074,Juan Camilo Zuniga,172.72,159,Outfield
+231674,Erik Cummins,185.42,176,GK
+128083,Vagner,185.42,176,GK
+488445,Tomas Vestenicky,175.26,163,Outfield
+274781,Selim Khelifi,172.72,137,Outfield
+190511,Rogelio Funes Mori,182.88,179,Outfield
+2984,Sergio Aragones,182.88,176,GK
+23307,Steve Simonsen,187.96,176,GK
+151079,Alejandro Bergantinos,177.8,161,Outfield
+39397,Fabrizio Grillo,177.8,163,Outfield
+178732,Lukasz Skorupski,187.96,185,GK
+32827,Richie Foran,185.42,172,Outfield
+31047,Guillermo Ochoa,185.42,172,GK
+30633,Mark Schwarzer,193.04,209,GK
+192905,Pape Abdou Camara,190.5,176,Outfield
+696365,Marcus Rashford,180.34,154,Outfield
+35480,Alex Bruce,180.34,179,Outfield
+393720,Fahd Aktaou,182.88,157,Outfield
+176186,Neto,193.04,185,GK
+41890,Claudio Marchisio,180.34,157,Outfield
+38341,Yves De Winter,187.96,181,GK
+47532,Martin Hansen,187.96,192,GK
+71908,Mathias Joergensen,190.5,174,Outfield
+470814,Erivaldo,177.8,154,Outfield
+273564,Soares Bordignon Arghus,187.96,183,Outfield
+210682,Zacharie Boucher,180.34,174,GK
+346651,Frederic Gounongbe,187.96,187,Outfield
+522571,Aleksandar Damcevski,193.04,194,Outfield
+39420,Carlo Zotti,190.5,190,GK
+214617,Michael Hector,193.04,181,Outfield
+40499,Patrik Ingelsten,177.8,176,Outfield
+5047,Wilko de Vogt,187.96,194,GK
+466892,Ulysse Diallo,180.34,170,Outfield
+562062,Samuel Castillejo,177.8,134,Outfield
+239981,Juan Sanchez Mino,177.8,172,Outfield
+8925,Ryan Thomson,182.88,157,Outfield
+38439,Gregory Christ,175.26,157,Outfield
+280980,Thiago Veras,185.42,174,Outfield
+238786,Zakarya Bergdich,175.26,150,Outfield
+20329,Rafael Dias,180.34,161,Outfield
+17296,Claude Gnakpa,182.88,192,Outfield
+251256,Javier Espinosa Gonzalez,175.26,154,Outfield
+181276,Romelu Lukaku,190.5,207,Outfield
+33488,Philipp Haastrup,187.96,163,Outfield
+42009,Giorgio Frezzolini,187.96,179,GK
+182923,Maxime Gonalons,187.96,168,Outfield
+513990,Sacha Bastien,195.58,201,GK
+306721,Luis Pedro,182.88,168,Outfield
+150831,Francisco Sutil,172.72,157,Outfield
+574872,Sunday Abalo,180.34,159,Outfield
+35467,Danny Higginbotham,185.42,172,Outfield
+23080,Rab Douglas,190.5,207,GK
+26552,Jose Fonte,187.96,179,Outfield
+277347,Hugo Rodriguez,177.8,154,Outfield
+23305,Nathan Dyer,167.64,137,Outfield
+25524,Frank Rost,193.04,203,GK
+101070,Gregory Arnolin,187.96,187,Outfield
+21410,Sebastian Leto,187.96,183,Outfield
+33431,Romain Salin,185.42,172,GK
+212370,Tom Beugelsdijk,193.04,174,Outfield
+391058,Jose Gaya,172.72,141,Outfield
+281558,Hernani,177.8,152,Outfield
+425963,Max Meyer,172.72,150,Outfield
+30973,Lukasz Fabianski,190.5,183,GK
+38084,Mateja Kezman,180.34,163,Outfield
+17343,David Barron,177.8,174,Outfield
+45245,Julio Coelho,177.8,161,GK
+206844,Maciej Jankowski,180.34,152,Outfield
+37193,Michel Vorm,182.88,190,GK
+25600,Rory Fallon,190.5,198,Outfield
+150007,Francois Affolter,185.42,168,Outfield
+78904,Guy-Roland N'Dy Assembe,182.88,174,GK
+114963,Fabian Giefer,195.58,205,GK
+150077,Marcio Paiva,182.88,185,GK
+93344,Romain Elie,180.34,170,Outfield
+192132,Zouhaier Dhaouadhi,180.34,159,Outfield
+111741,Mauro Vigorito,187.96,174,GK
+42581,Vincenzo Italiano,170.18,157,Outfield
+38440,Joseph Akpala,185.42,179,Outfield
+184618,Marciano Bruma,177.8,172,Outfield
+157856,Vaso Vasic,185.42,176,GK
+183701,Raul Dominguez,180.34,165,GK
+70409,Javier Hernandez,175.26,161,Outfield
+574654,Carlos Castro,177.8,150,Outfield
+26492,Darl Douglas,172.72,165,Outfield
+305827,Marnick Vermijl,180.34,168,Outfield
+26484,Boy Waterman,187.96,183,GK
+41864,Roberto Colombo,190.5,176,GK
+42692,Daniele Padelli,190.5,181,GK
+163843,Julio Cesar,193.04,176,GK
+213729,Jonathan Viera,170.18,141,Outfield
+30967,Quim,182.88,176,GK
+33889,Cristian Portilla,180.34,165,Outfield
+56846,Dani Estrada,177.8,163,Outfield
+41328,Joao Inacio Pia,177.8,150,Outfield
+315949,Paul Grant,182.88,170,GK
+385437,Serge Gnabry,172.72,161,Outfield
+209372,Adam Maher,175.26,143,Outfield
+163887,Cristiano,195.58,198,GK
+50657,Alexis Norambuena Ruz,172.72,159,Outfield
+33958,Asier Riesgo,185.42,168,GK
+30788,Hugo Viana,177.8,163,Outfield
+169756,Adrian,187.96,170,GK
+26568,Dominique van Dijk,182.88,165,Outfield
+210693,Johann Durand,182.88,157,GK
+614951,Robin Huser,180.34,154,Outfield
+32418,Jamie Langfield,193.04,183,GK
+528212,Aaron Lennox,190.5,181,GK
+196188,Rodri,175.26,163,Outfield
+408986,Timon Wellenreuther,185.42,176,GK
+389202,Wanderson,175.26,146,Outfield
+35905,Gary Hooper,175.26,157,Outfield
+5044,Jeroen Verhoeven,198.12,227,GK
+315460,Gaston Silva,185.42,172,Outfield
+40951,Tiago Pinto,177.8,154,Outfield
+35492,Sean Murdoch,187.96,163,GK
+280965,Benjamin Mendy,185.42,165,Outfield
+172157,Rafael,185.42,183,GK
+184554,Marc-Andre ter Stegen,187.96,187,GK
+72532,Giorgos Tzavellas,182.88,179,Outfield
+277761,Chancel Mbemba,182.88,181,Outfield
+39901,Tommy Bechmann,182.88,185,Outfield
+114011,Stjepan Kukuruzovic,180.34,168,Outfield
+40451,Ari,198.12,172,GK
+115495,Luis Manuel,182.88,165,Outfield
+25811,Johnny Leoni,187.96,174,GK
+42422,Samir Handanovic,193.04,196,GK
+210184,Wissam Ben Yedder,170.18,150,Outfield
+181198,Joao Barroca,185.42,181,GK
+6824,Pedro Kamata,165.1,130,Outfield
+407747,Christopher Dilo,187.96,185,GK
+289257,Rodrigo,187.96,181,GK
+181254,Andre Blackman,180.34,165,Outfield
+320187,Andres Malloth,185.42,179,GK
+185908,Rui Rego,175.26,165,GK
+128803,Simone Colombi,187.96,183,GK
+69825,Radek Petr,198.12,198,GK
+26536,Sander Boschker,185.42,192,GK
+27149,Ken Reichel,185.42,183,Outfield
+195782,Marco Bizot,193.04,187,GK
+174526,Boban Jovic,177.8,163,Outfield
+108956,Ivan Fatic,187.96,183,Outfield
+179182,Tobias Waisapy,167.64,128,Outfield
+179242,Lars Lambooij,177.8,163,Outfield
+47421,Unai Alba,190.5,185,GK
+74468,Andrea Conti,177.8,159,Outfield
+186675,Helder Luis Ferreira,182.88,168,Outfield
+23784,Gavin McCann,180.34,154,Outfield
+25329,Jesper Hansen,187.96,172,GK
+30143,"Alberto Frison,18",190.5,187,GK
+68436,Marcelo Estigarribia,180.34,154,Outfield
+113836,Danny Welbeck,185.42,161,Outfield
+206805,Jakub Szumski,193.04,172,GK
+42247,Eldin Jakupovic,190.5,183,GK
+173955,Abdoul Razzagui Camara,177.8,157,Outfield
+26190,Gregory Wimbee,193.04,194,GK
+33986,Andres Palop,182.88,165,GK
+32503,Gary Mason,172.72,141,Outfield
+13345,Pawel Kieszek,187.96,181,GK
+23913,Tugay Kerimoglou,175.26,161,Outfield
+501940,George Puscas,182.88,154,Outfield
+110947,Chris Herd,172.72,168,Outfield
+193224,Sergi Enrich,180.34,168,Outfield
+114211,Miro Varvodic,190.5,187,GK
+202669,"Manuel Sutter,19",177.8,168,Outfield
+41322,Matteo Gianello,187.96,185,GK
+32043,Jose Gomes de Moraes Edmilson,185.42,165,Outfield
+23027,Matt Duke,190.5,185,GK
+38385,Nicolas Pareja,180.34,163,Outfield
+46231,Tristan Lahaye,177.8,150,Outfield
+111025,Srdjan Blazic,198.12,205,GK
+361321,Iuri Medeiros,175.26,146,Outfield
+49269,Johan Bertilsson,177.8,150,Outfield
+214972,Geoffrey Kondogbia,187.96,168,Outfield
+441302,Anton Mitryushkin,187.96,181,GK
+23692,Calvin Zola Makongo,190.5,201,Outfield
+41708,Fabio Coltorti,198.12,209,GK
+733787,Linus Obexer,175.26,152,Outfield
+106294,Ivan Kelava,195.58,198,GK
+24788,Brian Jensen,185.42,172,GK
+25574,Pierre Webo,180.34,179,Outfield
+37427,Mario Alvarez,177.8,165,Outfield
+432411,Maciej Krakowiak,187.96,168,GK
+207045,Eli Babalj,193.04,190,Outfield
+427161,Marko Maric,190.5,196,GK
+268306,Gideao,190.5,209,GK
+30380,Brad Friedel,187.96,203,GK
+33681,Johan Vonlanthen,175.26,161,Outfield
+181548,Roderick Miranda,193.04,198,Outfield
+530859,Leroy Sane,182.88,165,Outfield
+41045,Samir Ujkani,185.42,172,GK
+136539,Rafal Gikiewicz,187.96,181,GK
+267728,Alan Henrique,187.96,181,Outfield
+268375,Emiliano Martinez,193.04,187,GK
+277390,Benjamin Boulenger,187.96,176,Outfield
+31909,Denes Rosa,175.26,141,Outfield
+41762,Alessio Scarpi,187.96,183,GK
+75001,Nauzet Aleman,180.34,165,Outfield
+105327,Lauri Dalla Valle,180.34,161,Outfield
+261348,Matheus,187.96,168,GK
+41886,Landry Bonnefoi,182.88,159,GK
+23792,Steven Davis,172.72,159,Outfield
+161661,Isaac Cofie,180.34,161,Outfield
+36873,Kristof Maes,187.96,187,GK
+413155,Martin Angha,187.96,174,Outfield
+41643,"Michele Arcari,22",185.42,172,GK
+271684,Kwang-Ryong Pak,187.96,183,Outfield
+150066,Giovanaz Assis,187.96,203,GK
+110132,Rick Verbeek,180.34,143,Outfield
+37369,Andrew Sinkala,175.26,165,Outfield
+12209,Tomas Kosicky,198.12,205,GK
+164553,John Sullivan,182.88,163,Outfield
+241747,Javier Fernandez Annunziata,177.8,146,Outfield
+30595,George Boateng,182.88,168,Outfield
+33272,Peter Jehle,187.96,176,GK
+46716,Mehdi Taouil,172.72,161,Outfield
+280943,Carlos Fonseca,180.34,163,Outfield
+24155,Tom Heaton,187.96,190,GK
+130298,John Guidetti,185.42,174,Outfield
+362195,Alessio Romagnoli,187.96,172,Outfield
+25795,Pascal Cerrone,177.8,141,Outfield
+243548,Patrick J. ter Mate,180.34,168,GK
+24590,Ricardo,185.42,172,Outfield
+24658,Curtis Davies,187.96,196,Outfield
+26585,Jurgen Wevers,203.2,212,GK
+43338,Cosmin Moti,182.88,163,Outfield
+5710,Diederik Boer,193.04,198,GK
+36378,Mesut Oezil,182.88,168,Outfield
+352968,Sebastien Haller,190.5,194,Outfield
+26150,Gregory Malicki,187.96,190,GK
+37770,Kasper Schmeichel,185.42,168,GK
+35954,Jonathan Tuffey,185.42,185,GK
+29303,Daniel Haas,187.96,190,GK
+150044,Pajetat Douglas,190.5,187,GK
+179774,Gael Germany,185.42,161,Outfield
+40610,Nelson,187.96,174,GK
+31465,Tim Howard,190.5,194,GK
+268257,Lima,177.8,161,Outfield
+37678,Tobias Sippel,180.34,172,GK
+215170,Raphael Holzhauser,193.04,187,Outfield
+24000,Iain Turner,190.5,179,GK
+27732,Damiano Zenoni,185.42,163,Outfield
+178096,Mario Baric,185.42,176,Outfield
+244278,Mathias Gehrt,175.26,165,Outfield
+35996,Boubacar Sanogo,187.96,181,Outfield
+30357,Luke Young,182.88,172,Outfield
+111193,Thomas Bosmel,182.88,165,GK
+199839,Francisco Velez,180.34,165,Outfield
+34213,Ryan Esson,185.42,174,GK
+42702,Rubinho,182.88,198,GK
+39401,Julio Sergio,187.96,176,GK
+34489,Henk Timmer,187.96,172,GK
+141126,Benjamin Kirsten,182.88,168,GK
+304355,Odisseas Vlachodimos,190.5,170,GK
+157955,Samuel Atrous,190.5,187,GK
+27358,Roman Weidenfeller,190.5,198,GK
+170365,Nosa Emanuel Igiebor,182.88,168,Outfield
+38805,Stephan Andersen,187.96,181,GK
+74814,Leigh Griffiths,175.26,168,Outfield
+94306,Joris Delle,187.96,185,GK
+39153,Cedric Berthelin,193.04,214,GK
+148297,Mario Matos,185.42,181,GK
+192064,Yoel Rodriguez,185.42,185,GK
+40976,Marcelo Moretto,195.58,207,GK
+97498,Beto,182.88,179,GK
+34967,Diego Barcelos,172.72,157,Outfield
+352860,Mouez Hassen,182.88,154,GK
+23453,Paul Rachubka,185.42,187,GK
+115675,Mark Ridgers,185.42,181,GK
+26463,Bas Roorda,193.04,196,GK
+243608,Cristian Battocchio,170.18,141,Outfield
+27462,Ruediger Kauf,172.72,143,Outfield
+32653,Hans-Joerg Butt,190.5,198,GK
+96651,Manu Fernandez,182.88,170,GK
+505942,Aaron Appindangoye,182.88,187,Outfield
+618878,Gianluigi Donnarumma,195.58,198,GK
+13436,Krzysztof Pilarz,182.88,172,GK
+6798,Roel van Hemert,182.88,179,Outfield
+24163,Chris Riggott,182.88,172,Outfield
+280350,Marcelo,182.88,163,Outfield
+124127,Fabiano,198.12,201,GK
+112107,Erwin Mulder,193.04,194,GK
+41489,Achille Coser,185.42,174,GK
+69793,Jakub Divis,195.58,194,GK
+188971,Jakob Haugaard,198.12,192,GK
+12381,Jan Slovenciak,193.04,196,GK
+165952,Marco Silvestri,190.5,176,GK
+30726,Edwin van der Sar,198.12,196,GK
+103428,Costel Pantilimon,203.2,212,GK
+168295,Emilijus Zubas,195.58,176,GK
+30841,Maarten Stekelenburg,198.12,203,GK
+40709,Fabien Audard,187.96,196,GK
+36286,David James,193.04,209,GK
+39989,Gregory Coupet,180.34,176,GK
+104986,Andres Fernandez,182.88,190,GK
+20118,Takafumi Akahoshi,175.26,150,Outfield
+33929,Sidi Yaya Keita,180.34,183,Outfield
+37021,Anthony Portier,182.88,181,Outfield
+107806,Didier Ovono,185.42,190,GK
+68839,Aleksander Kwiek,175.26,174,Outfield
+40968,Diogo Valente,177.8,165,Outfield
+41662,Victor Mareco,187.96,181,Outfield
+306651,Marvin Johnson,177.8,163,Outfield
+188565,Anthony Loustallot,182.88,170,GK
+287894,Loris Karius,190.5,192,GK
+30630,Joe Cole,175.26,161,Outfield
+30549,Diego Milito,182.88,172,Outfield
+429224,Pepe,185.42,174,Outfield
+24443,Andrea Mantovani,185.42,170,Outfield
+165600,Lior Etter,177.8,139,Outfield
+462944,Francesco Ruberto,182.88,165,GK
+230993,Raul Rodriguez,182.88,163,Outfield
+26252,Tony Heurtebis,180.34,161,GK
+212970,Arvid Schenk,195.58,187,GK
+317277,Daniel Bujok,175.26,161,Outfield
+39743,Alberto Maria Fontana,187.96,183,GK
+209371,Ali Messaoud,182.88,168,Outfield
+109590,Mohamed Youssouf,167.64,141,Outfield
+210404,Benjamin Corgnet,180.34,165,Outfield
+26508,Joost Terol,195.58,198,GK
+45418,Jos Hooiveld,193.04,183,Outfield
+12763,Nicolae Ovidiu Herea,180.34,154,Outfield
+36013,Dennis Gentenaar,180.34,172,GK
+38628,Sven Neuhaus,193.04,198,GK
+11336,Rudy Riou,185.42,172,GK
+110139,Geert Arend Roorda,190.5,190,Outfield
+51949,Keylor Navas,185.42,172,GK
+23881,Alan Tate,185.42,187,Outfield
+696404,Ben Hall,185.42,172,Outfield
+24475,Giles Coke,182.88,174,Outfield
+39158,Hocine Ragued,182.88,168,Outfield
+33872,Valdo,182.88,172,Outfield
+557546,David Ferguson,182.88,154,Outfield
+26638,Edwin van Bueren,177.8,172,Outfield
+181619,Benjamin Leroy,185.42,163,GK
+167285,Alireza Haghighi,193.04,176,GK
+26347,Frederic Piquionne,187.96,185,Outfield
+282059,Luca Lezzerini,195.58,190,GK
+38969,Yoni Buyens,182.88,176,Outfield
+75600,Chema,187.96,181,GK
+155738,Adem Ljajic,182.88,163,Outfield
+23813,Maik Taylor,193.04,198,GK
+281864,Aldair,170.18,143,Outfield
+36617,Andreas Isaksson,198.12,190,GK
+181211,Adama Traore,170.18,161,Outfield
+419136,Craig Slater,177.8,154,Outfield
+24751,James Collins,193.04,198,Outfield
+27423,Wesley Sonck,175.26,168,Outfield
+212815,Timo Horn,193.04,198,GK
+114737,Marwin Hitz,193.04,185,GK
+148828,Vincent Manceau,175.26,143,Outfield
+172896,Tomasz Holota,185.42,183,Outfield
+25962,Joao Pedro,175.26,157,Outfield
+184091,Tono,177.8,152,Outfield
+650847,Joher Khadim Rassoul,187.96,181,Outfield
+435902,Joao Camacho,175.26,154,Outfield
+568908,Ricardinho,177.8,146,Outfield
+38354,Wim Mennes,185.42,176,Outfield
+27671,Luca Cigarini,175.26,159,Outfield
+706985,Jordan Lyden,177.8,154,Outfield
+213799,Thibault Moulin,175.26,154,Outfield
+191989,Helder Pelembe,175.26,174,Outfield
+261787,Iago Herrerin,187.96,198,GK
+37421,Claudio Bravo,182.88,176,GK
+429870,Adam Deja,185.42,181,Outfield
+188498,Daniel Caligiuri,182.88,174,Outfield
+39232,Simone Pepe,175.26,174,Outfield
+11760,Jorge Baptista,185.42,192,GK
+30287,Pablo Orbaiz,177.8,165,Outfield
+538499,Lewis Baker,182.88,154,Outfield
+40672,Francisco Casilla,190.5,185,GK
+108461,Yohandry Orozco,165.1,121,Outfield
+42460,Alberto Giuliatto,180.34,170,Outfield
+41301,Nicolas Penneteau,185.42,172,GK
+37889,Bart Buysse,177.8,154,Outfield
+540230,Artem Simonyan,177.8,154,Outfield
+148331,Anthony Moris,182.88,165,GK
+89240,Adam Hlousek,187.96,168,Outfield
+11746,Pedro Alves,187.96,176,GK
+450293,Cesar,170.18,143,Outfield
+40916,Nikolai Mihaylov,193.04,187,GK
+173609,Ivan Martic,182.88,154,Outfield
+415308,Luca Bittante,182.88,143,Outfield
+26213,Alexandre Licata,177.8,168,Outfield
+11788,"Rui Baiao,22",180.34,165,Outfield
+304668,Sander van de Streek,180.34,163,Outfield
+660165,Milot Rashica,177.8,161,Outfield
+611532,Patrick Joosten,185.42,161,Outfield
+24450,Victor Obinna,180.34,179,Outfield
+661902,Jack Byrne,175.26,161,Outfield
+41361,Julien Cardy,175.26,157,Outfield
+173011,Abdourahman Dampha,182.88,168,Outfield
+242151,Borja Ekiza,180.34,161,Outfield
+181920,Francesco Bardi,187.96,181,GK
+5686,Gerry Koning,180.34,159,Outfield
+26547,Remko Pasveer,187.96,201,GK
+35638,Pedro Munitis,167.64,154,Outfield
+186806,Brice Maubleu,193.04,183,GK
+93358,Romain Thomas,193.04,185,Outfield
+416175,Jose Sa,193.04,187,GK
+37149,Henrique Hilario,187.96,194,GK
+30713,Marco Amelia,190.5,198,GK
+26777,Brede Hangeland,195.58,203,Outfield
+33546,Ronan Le Crom,185.42,170,GK
+243240,David Biton,187.96,179,Outfield
+33764,Gorka Iraizoz Moreno,190.5,196,GK
+215823,Pierre Sagna,182.88,168,Outfield
+77834,Sander Puri,177.8,143,Outfield
+97509,Andre Simoes,177.8,163,Outfield
+22929,Joe Ledley,182.88,161,Outfield
+102394,Alberto Garcia,182.88,170,GK
+23736,Keith Southern,177.8,174,Outfield
+748432,Fynn Arkenberg,187.96,176,Outfield
+523387,Juanma,180.34,165,Outfield
+25563,Carlos Kameni,185.42,190,GK
+39609,Martin Lejsal,195.58,205,GK
+94841,Sven Ulreich,193.04,185,GK
+38618,Marcel Seip,180.34,172,Outfield
+172321,Joselu,193.04,176,Outfield
+35477,David Stockdale,190.5,185,GK
+134132,Mario Leitgeb,182.88,168,Outfield
+611682,Connor Randall,180.34,168,Outfield
+186705,Matthew Jones,190.5,183,GK
+206809,Filip Kurto,193.04,203,GK
+7621,Anthony Favre,193.04,198,GK
+183350,Alvaro Cejudo,180.34,172,Outfield
+45749,Benat Etxebarria,175.26,159,Outfield
+71324,Rodrigo Rojas,180.34,170,Outfield
+34601,Jermaine Pennant,172.72,150,Outfield
+39334,Christian Daniel Ledesma,180.34,172,Outfield
+27376,Max Gruen,190.5,190,GK
+42478,Vlada Avramov,187.96,179,GK
+35513,Mark Howard,182.88,168,GK
+248437,Alexander Schwolow,187.96,183,GK
+97502,Michelangelo Albertazzi,185.42,161,Outfield
+246422,Juan Carlos,187.96,181,GK
+251925,Gerard Deulofeu,177.8,161,Outfield
+237541,Felix Klaus,177.8,174,Outfield
+182917,David De Gea,193.04,181,GK
+32700,Simon Ford,185.42,174,Outfield
+502645,Patryk Lipski,185.42,163,Outfield
+28468,Pedro Oldoni,190.5,181,Outfield
+34381,Derek Boateng,185.42,172,Outfield
+35524,Colin Healy,180.34,181,Outfield
+150046,Igor Pita,182.88,163,Outfield
+35644,Antonio Mirante,193.04,174,GK
+197848,Alessandro Cerigioni,177.8,159,Outfield
+488189,Kieran Kennedy,182.88,154,Outfield
+209312,Danilo Dias,172.72,139,Outfield
+38349,Nico van Kerckhoven,190.5,183,Outfield
+31432,Joe Hart,195.58,201,GK
+190604,Ugo Gabrieli,190.5,176,GK
+42254,Joao Paulo Di Fabio,185.42,165,Outfield
+40841,Carlos,187.96,181,GK
+69300,Mark Rudan,193.04,196,Outfield
+37177,Ronald Graafland,190.5,172,GK
+30455,Heurelho Gomes,190.5,181,GK
+196126,Daniel Gimenez,182.88,170,GK
+93466,Joris Steve Marveaux,177.8,159,Outfield
+41195,Florent Chaigneau,198.12,207,GK
+39069,Lukasz Gargula,177.8,159,Outfield
+425950,Abdellah Zoubir,180.34,161,Outfield
+34067,Aleksandar Mitreski,185.42,165,Outfield
+42592,Khalid Sinouh,190.5,190,GK
+46289,Imanol Agirretxe,187.96,170,Outfield
+3316,Oscar Sanchez,180.34,159,Outfield
+46705,Geoffrey Jourdren,180.34,179,GK
+394824,Salvador Ichazo,187.96,183,GK
+261653,Vladlen Yurchenko,180.34,165,Outfield
+447417,Romain Dessarzin,177.8,161,Outfield
+68253,Benedikt Hoewedes,187.96,181,Outfield
+19344,Artur,193.04,209,GK
+25538,Youssouf Hadji,182.88,172,Outfield
+39965,Paul Baysse,187.96,187,Outfield
+185014,Matthew Leckie,180.34,181,Outfield
+176704,Robert Pich,172.72,150,Outfield
+11321,Vincent Plante,190.5,187,GK
+69518,Adam Marciniak,182.88,181,Outfield
+33773,Ferran Corominas,175.26,154,Outfield
+179828,Walid Mesloub,180.34,152,Outfield
+167069,Diego Seoane Perez,180.34,170,Outfield
+42042,Gennaro Iezzo,185.42,179,GK
+39696,Paolo Bianco,182.88,170,Outfield
+38576,Alberto Zapater,180.34,181,Outfield
+27313,Tim Wiese,193.04,243,GK
+39584,Stipe Pletikosa,193.04,183,GK
+202471,Noe Dussenne,190.5,187,Outfield
+26709,Frank van Mosselveld,182.88,154,Outfield
+131408,Thomas Kaminski,193.04,154,GK
+280348,Huanderson,187.96,183,GK
+477470,Gabriel Moura,172.72,154,Outfield
+97363,Nilson,185.42,176,GK
+186991,German Pezzela,185.42,179,Outfield
+210694,Eric Tie Bi,180.34,168,Outfield
+96844,Filipe Mendes,193.04,194,GK
+114735,Nick von Niederhausern,177.8,157,Outfield
+94658,Tom Mickel,182.88,187,GK
+56819,Sebastian Fernandez,170.18,152,Outfield
+39313,Cristiano Lupatelli,187.96,185,GK
+164323,Ruben Fernandes,185.42,172,Outfield
+39509,Salvatore Aronica,180.34,172,Outfield
+121488,Alban Joinel,187.96,181,GK
+281158,Jakub Swierczok,177.8,165,Outfield
+39415,Mariano Andujar,193.04,194,GK
+154949,Gueida Fofana,182.88,163,Outfield
+179239,Michael de Leeuw,177.8,148,Outfield
+434259,Marius Gersbeck,187.96,176,GK
+179009,Dejan Lekic,193.04,194,Outfield
+46689,Oumar Sissoko,187.96,185,GK
+31701,Mikael Lustig,190.5,172,Outfield
